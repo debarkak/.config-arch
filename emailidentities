@@ -1,0 +1,12 @@
+[General]
+Default Identity=774923383
+
+[Identity #0]
+Default Domain=arch3590
+Disable Fcc=false
+Identity=Unnamed
+Image Location=
+Inline Signature=
+Override Encryption Defaults=false
+Signature Enabled=false
+uoid=774923383

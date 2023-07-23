@@ -1,0 +1,3 @@
+hewol
+hotspot
+checksum_v1 = 89ff7037463b0e24e860249343a5a886

@@ -1,0 +1,21 @@
+[KFileDialog Settings]
+Recent Files[$e]=Bright Sky.jpg,file:$HOME/Pictures/Bright Sky.jpg
+Recent URLs[$e]=file:$HOME/Pictures/
+detailViewIconSize=16
+
+[MainWindow]
+1024x768 screen: Window-Maximized=true
+1536x864 screen: Height=700
+1536x864 screen: Width=1020
+1920x1080 screen: Height=709
+1920x1080 screen: Width=1020
+1920x1080 screen: XPosition=449
+1920x1080 screen: YPosition=169
+3840x2160 screen: Window-Maximized=true
+640x360 screen: Height=700
+640x360 screen: Width=1020
+640x360 screen: Window-Maximized=true
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/wAAALFAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

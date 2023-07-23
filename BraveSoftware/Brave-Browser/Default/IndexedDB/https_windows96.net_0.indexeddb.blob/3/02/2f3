@@ -1,0 +1,5 @@
+//!wrt $BSPEC:{"icn":null,"cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"","frn":"Simple command line program","ver":1,"ssy":"cli"}
+
+const term=this.boxedEnv.term;if(!term)return;class HelloWorldApplication extends WApplication{constructor(){super()}async main(t){super.main(t),term.writeln("Hello World!"),term.writeln("Welcome to the most useful app!");let e=await term.prompt("Enter your first name: ");term.writeln("Nice job "+e+"!");let r=await term.prompt("Last name: ");term.writeln(`Hi there ${e} ${r}!`),await term.pause()}}
+
+return await WApplication.execAsync(new HelloWorldApplication(), this.boxedEnv.args, this);

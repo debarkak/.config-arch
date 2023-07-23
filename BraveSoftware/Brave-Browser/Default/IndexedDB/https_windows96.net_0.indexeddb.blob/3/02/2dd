@@ -1,0 +1,3 @@
+//!wrt
+
+const newArgs=[...env.args];newArgs.splice(0,1);const msg=newArgs.join(" ");alert(msg);

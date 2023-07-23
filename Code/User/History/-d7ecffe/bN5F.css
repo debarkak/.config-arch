@@ -1,0 +1,70 @@
+/* Reset default margin and padding */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #333; /* Dark grey background color */
+    color: #fff; /* White text color */
+}
+
+header {
+    background-color: #222; /* Darker grey header background color */
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+#about-me {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.full-screen-background {
+    position: relative;
+    height: 100vh; /* Set the height of the background to full viewport height */
+    background-image: url('background-image.jpg'); /* Replace with your background image URL */
+    background-size: cover;
+    background-position: center;
+}
+
+.centered-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 80%;
+}
+
+.centered-content h2 {
+    color: #fff; /* White heading color */
+    font-size: 36px; /* Increase the font size to your desired value */
+}
+
+.centered-content p {
+    margin-top: 10px;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.social-links a {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+/* Style social media icons (you can use actual image icons or font icons) */
+.social-links img {
+    width: 30px;
+    height: 30px;
+}

@@ -1,0 +1,56 @@
+[File/Save As]
+Forced Quality=45
+
+[General Settings]
+First Time=false
+Last Document Size=162,84
+Open Images in the Same Window=false
+Resize Scale - Last Keep Aspect=false
+Resize Scale - ScaleType=0
+
+[KFileDialog Settings]
+Recent Files[$e]=aeros-pic.jpg,file:$HOME/Documents/bro-macinfo.png,file:$HOME/Documents/danek face.png,file:$HOME/Documents/logo.png,file:///mnt/data69/hewol logo.png
+Recent URLs[$e]=file:$HOME/,file:///mnt/data69/,file:$HOME/Documents/
+detailViewIconSize=16
+
+[MainWindow]
+1920x1080 screen: Height=736
+1920x1080 screen: Width=1440
+1920x1080 screen: XPosition=165
+1920x1080 screen: YPosition=201
+State=AAAA/wAAAAD9AAAAAQAAAAMAAAVcAAAAZPwBAAAAAfsAAAASAEMAbwBsAG8AcgAgAEIAbwB4AQAAAEQAAAVcAAACDQD///8AAAVcAAACIQAAAAQAAAAEAAAAAQAAAAL8AAAAAgAAAAAAAAABAAAAEABUAG8AbwBsACAAQgBvAHgDAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABYAdABlAHgAdABUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[MainWindow][Toolbar Tool Box]
+ToolButtonStyle=IconOnly
+
+[Recent Files]
+File1[$e]=/mnt/data69/Projects/web/hewol/assets/arch-script-2.png
+File2[$e]=$HOME/Documents/bro-macinfo.png
+Name1[$e]=arch-script-2.png
+Name2[$e]=bro-macinfo.png
+
+[Save Preview Settings]
+Geometry=764,40,198,153
+Update Delay=200
+
+[Tool Settings]
+Last Used Tool=1
+Tool Widget Brush Col=2
+Tool Widget Brush Row=0
+Tool Widget Eraser Size Col=0
+Tool Widget Eraser Size Row=1
+Tool Widget Fill Style Col=0
+Tool Widget Fill Style Row=0
+Tool Widget Line Width Col=0
+Tool Widget Line Width Row=0
+Tool Widget Opaque/Transparent Col=0
+Tool Widget Opaque/Transparent Row=0
+Tool Widget Spraycan Size Col=0
+Tool Widget Spraycan Size Row=0
+
+[Undo/Redo Settings]
+Max Limit=500
+Max Limit Size Limit=16777216
+Min Limit=10

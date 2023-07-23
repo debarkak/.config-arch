@@ -1,0 +1,23 @@
+[source]
+name=QEMU Session
+type=libvirt
+uri=qemu+unix:///session
+save-on-quit=true
+
+[display 8735adb4-8cff-4b5c-a92c-be2c292b6aee]
+last-seen-name=Void Linux
+uuid=8735adb4-8cff-4b5c-a92c-be2c292b6aee
+acceleration-3d=false
+run-in-bg=true
+access-last-time=1685535518680404
+access-ntimes=17
+access-total-time=3853
+
+[display e82c4285-e63c-499f-8955-0c85fb8ccfeb]
+last-seen-name=aerOS-2023
+uuid=e82c4285-e63c-499f-8955-0c85fb8ccfeb
+acceleration-3d=false
+run-in-bg=true
+access-last-time=1685465228840877
+access-ntimes=1
+access-total-time=209

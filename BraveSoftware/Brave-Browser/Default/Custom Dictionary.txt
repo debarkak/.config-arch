@@ -1,0 +1,7 @@
+Respin
+aerOS
+calamares
+distro
+distros
+laggy
+checksum_v1 = 0fe8611b0a02a6ee15026c276853beeb

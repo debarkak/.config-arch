@@ -1,0 +1,5 @@
+//!wrt $BSPEC:{"icn":null,"cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"","frn":"Initialization binary for SYSTEM36","ver":1,"ssy":"gui"}
+
+class UinitApplication extends WApplication{constructor(){super()}async main(i){super.main(i)}}
+
+return await WApplication.execAsync(new UinitApplication(), this.boxedEnv.args, this);

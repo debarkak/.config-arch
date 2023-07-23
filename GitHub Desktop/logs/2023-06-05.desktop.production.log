@@ -1,0 +1,9 @@
+2023-06-05T15:22:42.767Z - info: [ui] [AppStore] loading 3 repositories from store
+2023-06-05T15:22:42.773Z - info: [ui] [AppStore] found account: Debarka-Kundu (Debarka Kundu)
+2023-06-05T15:22:42.958Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.5-zen1-1-zen)
+2023-06-05T15:22:42.958Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-06-05T15:22:43.980Z - info: [ui] Subscribed 'Debarka-Kundu' to Alive channel
+2023-06-05T15:22:44.347Z - info: [ui] Stats reported.
+2023-06-05T15:22:48.143Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - Debarka-Kundu (has token)
+2023-06-05T15:22:48.569Z - error: [ui] 'git status' emitted 20253192 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-06-05T15:22:48.582Z - error: [ui] 'git status' emitted 20253192 bytes, which is beyond the supported threshold of 20000000 bytes

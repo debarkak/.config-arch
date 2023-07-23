@@ -1,0 +1,4 @@
+{
+	"icon": "apps/wasm-tools",
+	"action": "wasm-tools"
+}

@@ -1,0 +1,36 @@
+2023-06-16T09:29:34.623Z - info: [ui] [AppStore] loading 3 repositories from store
+2023-06-16T09:29:34.628Z - info: [ui] [AppStore] found account: XanuduBuster (Xanudu)
+2023-06-16T09:29:34.689Z - info: [ui] [BranchPruner] Last prune took place 18 hours ago - skipping
+2023-06-16T09:29:36.202Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.7-zen1-1-zen)
+2023-06-16T09:29:36.203Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-06-16T09:29:36.398Z - info: [ui] Subscribed 'XanuduBuster' to Alive channel
+2023-06-16T09:29:37.753Z - info: [ui] Stats reported.
+2023-06-16T09:29:47.995Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.736s)
+2023-06-16T09:29:49.307Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.309s)
+2023-06-16T09:30:09.886Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - XanuduBuster (has token)
+2023-06-16T09:30:11.412Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.523s)
+2023-06-16T09:30:12.653Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.240s)
+2023-06-16T09:30:13.426Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 4.1s of which 0.0s paused, total 4.1s
+2023-06-16T11:04:01.588Z - info: [ui] [AppStore] loading 3 repositories from store
+2023-06-16T11:04:01.596Z - info: [ui] [AppStore] found account: XanuduBuster (Xanudu)
+2023-06-16T11:04:01.648Z - info: [ui] [BranchPruner] Last prune took place 20 hours ago - skipping
+2023-06-16T11:04:02.391Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.7-zen1-1-zen)
+2023-06-16T11:04:02.392Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-06-16T11:04:03.161Z - info: [ui] Subscribed 'XanuduBuster' to Alive channel
+2023-06-16T11:04:38.502Z - info: [ui] [Timing] Action 'create commit' for 'hewol/hewol.github.io' took 0.148s
+2023-06-16T11:04:39.520Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: hewol.github.io - XanuduBuster (has token)
+2023-06-16T11:04:45.212Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 5.651s)
+2023-06-16T11:04:46.512Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.294s)
+2023-06-16T11:04:47.726Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.212s)
+2023-06-16T11:31:12.002Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 1.5s of which 0.0s paused, total 1.5s
+2023-06-16T11:31:13.219Z - info: [ui] [BranchPruner] No branches to prune.
+2023-06-16T11:31:14.512Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.523s)
+2023-06-16T11:31:15.835Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.321s)
+2023-06-16T11:31:17.274Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - XanuduBuster (has token)
+2023-06-16T11:31:18.787Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.447s)
+2023-06-16T11:31:27.309Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 8.520s)
+2023-06-16T12:03:28.592Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.780s)
+2023-06-16T12:03:29.981Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.328s)
+2023-06-16T12:24:13.121Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 1.5s of which 0.0s paused, total 1.5s
+2023-06-16T12:28:45.577Z - error: [ui] 'git status' emitted 24874079 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-06-16T12:28:46.660Z - error: [ui] 'git status' emitted 24941660 bytes, which is beyond the supported threshold of 20000000 bytes

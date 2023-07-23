@@ -1,0 +1,34 @@
+2023-06-17T09:53:13.939Z - info: [ui] [AppStore] loading 3 repositories from store
+2023-06-17T09:53:13.943Z - info: [ui] [AppStore] found account: XanuduBuster (Xanudu)
+2023-06-17T09:53:14.044Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.7-zen1-1-zen)
+2023-06-17T09:53:14.049Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-06-17T09:53:15.280Z - info: [ui] Stats reported.
+2023-06-17T09:53:15.283Z - info: [ui] Subscribed 'XanuduBuster' to Alive channel
+2023-06-17T09:53:16.975Z - info: [ui] [BranchPruner] No branches to prune.
+2023-06-17T09:53:19.126Z - error: [ui] 'git status' emitted 20377693 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-06-17T09:53:19.207Z - error: [ui] 'git status' emitted 20377693 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-06-17T09:53:19.234Z - error: [ui] 'git status' emitted 20377693 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-06-17T09:53:27.690Z - error: [ui] 'git status' emitted 20377693 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-06-17T09:53:32.709Z - error: [ui] 'git status' emitted 20377693 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-06-17T09:54:30.462Z - info: [ui] [BranchPruner] Last prune took place 22 hours ago - skipping
+2023-06-17T09:54:31.279Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 1.2s of which 0.0s paused, total 1.2s
+2023-06-17T10:30:10.279Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.337s)
+2023-06-17T10:30:11.461Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.176s)
+2023-06-17T11:29:37.922Z - info: [ui] [AppStore] loading 3 repositories from store
+2023-06-17T11:29:37.930Z - info: [ui] [AppStore] found account: XanuduBuster (Xanudu)
+2023-06-17T11:29:37.998Z - info: [ui] [BranchPruner] Last prune took place yesterday - skipping
+2023-06-17T11:29:38.539Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.7-zen1-1-zen)
+2023-06-17T11:29:38.540Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-06-17T11:29:39.079Z - info: [ui] Subscribed 'XanuduBuster' to Alive channel
+2023-06-17T11:29:41.324Z - info: [ui] [BranchPruner] Last prune took place 2 hours ago - skipping
+2023-06-17T11:29:42.683Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 0.7s of which 0.0s paused, total 0.7s
+2023-06-17T11:30:14.280Z - info: [ui] [Timing] Action 'create commit' for 'hewol/hewol.github.io' took 0.162s
+2023-06-17T11:30:15.152Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: hewol.github.io - XanuduBuster (has token)
+2023-06-17T11:30:17.630Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 2.416s)
+2023-06-17T11:30:20.793Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 3.127s)
+2023-06-17T11:30:22.337Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.524s)
+2023-06-17T11:30:58.409Z - info: [ui] [Timing] Action 'create commit' for 'hewol/hewol.github.io' took 0.129s
+2023-06-17T11:30:59.545Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: hewol.github.io - XanuduBuster (has token)
+2023-06-17T11:31:01.749Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 2.160s)
+2023-06-17T11:31:03.171Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.417s)
+2023-06-17T11:31:04.227Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.055s)

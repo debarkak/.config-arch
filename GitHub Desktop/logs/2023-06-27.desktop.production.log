@@ -1,0 +1,40 @@
+2023-06-27T08:53:43.443Z - info: [ui] [AppStore] loading 3 repositories from store
+2023-06-27T08:53:43.455Z - info: [ui] [AppStore] found account: XanuduBuster (Xanudu)
+2023-06-27T08:53:44.462Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.9-zen1-1-zen)
+2023-06-27T08:53:44.464Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-06-27T08:53:44.644Z - info: [ui] Subscribed 'XanuduBuster' to Alive channel
+2023-06-27T08:53:46.238Z - info: [ui] Stats reported.
+2023-06-27T08:53:52.866Z - error: [ui] 'git status' emitted 20378068 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-06-27T08:53:52.885Z - error: [ui] 'git status' emitted 20378068 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-06-27T08:53:56.612Z - error: [ui] 'git status' emitted 20378068 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-06-27T08:56:05.512Z - info: [ui] [BranchPruner] Last prune took place 2 minutes ago - skipping
+2023-06-27T08:56:06.770Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.890s)
+2023-06-27T08:56:06.918Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: hewol.github.io - XanuduBuster (has token)
+2023-06-27T08:56:10.466Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - XanuduBuster (has token)
+2023-06-27T08:56:12.102Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.419s)
+2023-06-27T08:56:13.174Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.070s)
+2023-06-27T08:56:20.136Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 13.195s)
+2023-06-27T08:56:31.032Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 16.9s of which 9.9s paused, total 26.8s
+2023-06-27T14:42:33.388Z - info: [ui] [AppStore] loading 3 repositories from store
+2023-06-27T14:42:33.403Z - info: [ui] [AppStore] found account: XanuduBuster (Xanudu)
+2023-06-27T14:42:33.464Z - info: [ui] [BranchPruner] Last prune took place 6 hours ago - skipping
+2023-06-27T14:42:33.662Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.9-zen1-1-zen)
+2023-06-27T14:42:33.668Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-06-27T14:42:34.257Z - info: [ui] Subscribed 'XanuduBuster' to Alive channel
+2023-06-27T14:42:40.784Z - error: [ui] 'git status' emitted 20379532 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-06-27T14:42:40.906Z - error: [ui] 'git status' emitted 20379532 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-06-27T14:42:46.064Z - error: [ui] 'git status' emitted 20379532 bytes, which is beyond the supported threshold of 20000000 bytes
+2023-06-27T14:43:01.554Z - info: [ui] [BranchPruner] Last prune took place 6 hours ago - skipping
+2023-06-27T14:43:03.255Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.773s)
+2023-06-27T14:43:04.519Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.250s)
+2023-06-27T14:43:15.742Z - info: [ui] Executing getConfigValueInPath: git config -z pull.rebase (took 2.332s)
+2023-06-27T14:43:24.543Z - info: [ui] Executing getRecentBranches: git log -g --no-abbrev-commit --pretty=oneline HEAD -n 2500 -- (took 3.077s)
+2023-06-27T14:43:24.544Z - info: [ui] Executing getBranches: git for-each-ref --format=%00%(refname)%00%(refname:short)%00%(upstream:short)%00%(objectname)%00%(author)%00%(symref)%00 refs/heads refs/remotes (took 3.231s)
+2023-06-27T14:43:28.219Z - info: [ui] Executing getSymbolicRef: git symbolic-ref -q refs/remotes/origin/HEAD (took 3.672s)
+2023-06-27T14:43:29.451Z - info: [ui] Executing getConfigValueInPath: git config -z pull.rebase (took 1.135s)
+2023-06-27T14:43:56.130Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - XanuduBuster (has token)
+2023-06-27T14:43:58.397Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.781s)
+2023-06-27T14:43:59.612Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.208s)
+2023-06-27T14:46:44.503Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 2.8s of which 0.0s paused, total 2.8s
+2023-06-27T14:46:44.523Z - info: [ui] [Timing] Action 'create commit' for 'hewol/aerOS' took 0.070s
+2023-06-27T14:47:03.615Z - info: [main] opening in browser: https://help.github.com/articles/versioning-large-files/

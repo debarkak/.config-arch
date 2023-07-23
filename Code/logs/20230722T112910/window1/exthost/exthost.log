@@ -1,0 +1,29 @@
+2023-07-22 11:29:14.970 [info] Extension host with pid 7257 started
+2023-07-22 11:29:14.970 [info] Skipping acquiring lock for /home/debarka/.config/Code/User/workspaceStorage/75a2ba6aa6e17fccd9c71eba83345093.
+2023-07-22 11:29:15.259 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-22 11:29:15.283 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-07-22 11:29:16.382 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-22 11:29:16.633 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2023-07-22 11:29:16.856 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-22 11:29:16.934 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-22 11:29:17.401 [info] Eager extensions activated
+2023-07-22 11:29:17.502 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-07-22 11:29:17.537 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-22 11:29:17.540 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-22 11:29:18.079 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-07-22 11:29:18.417 [error] TypeError: Cannot read properties of null (reading 'write')
+	at IPCTransport.send (/home/debarka/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24881)
+	at /home/debarka/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24968
+	at new Promise (<anonymous>)
+	at IPCTransport.close (/home/debarka/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24925)
+	at RPCClient.destroy (/home/debarka/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:18626)
+	at login (/home/debarka/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:149260)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async activate (/home/debarka/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:151363)
+	at async w.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:6194)
+	at async w.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:6157)
+	at async w.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:5614)
+2023-07-22 11:29:19.452 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-07-22 11:45:20.467 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-07-22 11:45:20.504 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-07-22 11:45:21.156 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features

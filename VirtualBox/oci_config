@@ -1,0 +1,15 @@
+[b]
+cert_bundle=
+cloud_domain=oraclecloud.com
+compartment=OCID of your compartment
+core_endpoint=
+fingerprint=Fingerprint for the key pair being used
+iam_endpoint=
+key_file=Full path and filename of the private key
+namespace_override=
+objectstorage_endpoint=
+pass_phrase=Passphrase used for the key, if it is encrypted
+region=An Oracle Cloud Infrastructure region
+tenancy=OCID of your tenancy
+user=OCID of the user calling the API
+

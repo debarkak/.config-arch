@@ -1,0 +1,5 @@
+//!wrt $BSPEC:{"icn":null,"cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"","frn":"<Unknown>","ver":1,"ssy":"gui"}
+
+const{perf:perf}=w96.debug;class DToolApp extends WApplication{constructor(){super()}async main(p){super.main(p),p.includes("--perf")&&perf.showDOMFps()}}
+
+return await WApplication.execAsync(new DToolApp(), this.boxedEnv.args, this);

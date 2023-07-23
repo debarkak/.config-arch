@@ -1,0 +1,3 @@
+//!wrt
+
+if(!env.term)return 1;const term=env.term,volumes=w96.FS.list();for(let e of volumes){const r=w96.FS.get(e);term.println(term.color`{cyan ${r.prefix}} (${r.volumeLabel})=[{magenta ${r.features}}] -> {yellow ${r.driverName}}`)}

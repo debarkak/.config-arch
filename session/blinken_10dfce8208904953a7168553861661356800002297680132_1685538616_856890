@@ -1,0 +1,8 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+1920x1080 screen: Window-Maximized=true
+ClassName=blinken
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAAAAAAAAAAAAABAAAAAQAAAAIAAAACPwAAAAA

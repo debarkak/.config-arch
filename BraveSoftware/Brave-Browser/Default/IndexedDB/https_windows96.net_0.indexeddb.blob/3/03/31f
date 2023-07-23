@@ -1,0 +1,5 @@
+//!wrt $BSPEC:{"icn":null,"cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"","frn":"WEX runner for SYSTEM36","ver":1,"ssy":"gui"}
+
+const{wex:wex}=w96.sys;class WEXRunnerApplication extends WApplication{constructor(){super()}async main(n){if(super.main(n),await FS.exists(n[1]))return await wex.runFile(n[1])}}
+
+return await WApplication.execAsync(new WEXRunnerApplication(), this.boxedEnv.args, this);

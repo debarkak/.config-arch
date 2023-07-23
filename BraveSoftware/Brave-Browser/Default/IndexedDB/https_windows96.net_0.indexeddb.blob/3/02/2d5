@@ -1,0 +1,7 @@
+// system reserved
+// make your own JS file to create code for startup
+
+delete localStorage['social_mv.lock']
+
+// w96.WRT.runFile("W:/system/src/v3-release/changelog-app.js");
+w96.WRT.runFile("W:/system/src/ani-4yr/changelog-app.js");

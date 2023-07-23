@@ -1,0 +1,10 @@
+2023-07-22 11:29:12.875 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2023-07-22 11:29:18.841 [info] [perf] Render performance baseline is 160ms
+2023-07-22 11:31:03.285 [error] Unable to read file '/mnt/data69/personal website/styles.css' (Error: File not modified since): Error: Unable to read file '/mnt/data69/personal website/styles.css' (Error: File not modified since)
+    at e.$op.w (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:16321)
+    at e.$op.v (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:627:16209)
+    at async e.$i9b.H (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:36716)
+    at async e.$i9b.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:36470)
+    at async Qs.zb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2301:28988)
+    at async Qs.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2301:27435)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2312:32790

@@ -1,0 +1,52 @@
+2023-06-15T11:27:05.646Z - info: [ui] [AppStore] loading 3 repositories from store
+2023-06-15T11:27:05.660Z - info: [ui] [AppStore] found account: XanuduBuster (Xanudu)
+2023-06-15T11:27:05.712Z - info: [ui] [BranchPruner] Last prune took place 17 hours ago - skipping
+2023-06-15T11:27:06.284Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.7-zen1-1-zen)
+2023-06-15T11:27:06.285Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-06-15T11:27:06.929Z - info: [ui] Subscribed 'XanuduBuster' to Alive channel
+2023-06-15T11:27:13.431Z - info: [ui] [Timing] Action 'create commit' for 'hewol/aerOS' took 0.123s
+2023-06-15T11:27:15.599Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - XanuduBuster (has token)
+2023-06-15T11:27:17.715Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 2.110s)
+2023-06-15T11:27:19.151Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.428s)
+2023-06-15T11:27:20.470Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.317s)
+2023-06-15T11:36:09.853Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 2.0s of which 0.0s paused, total 2.0s
+2023-06-15T11:36:24.827Z - info: [ui] [Timing] Action 'create commit' for 'hewol/aerOS' took 0.157s
+2023-06-15T11:36:26.541Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - XanuduBuster (has token)
+2023-06-15T11:36:29.141Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 2.573s)
+2023-06-15T11:36:30.537Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.367s)
+2023-06-15T11:36:32.078Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.540s)
+2023-06-15T15:09:38.798Z - info: [ui] [AppStore] loading 3 repositories from store
+2023-06-15T15:09:38.806Z - info: [ui] [AppStore] found account: XanuduBuster (Xanudu)
+2023-06-15T15:09:38.852Z - info: [ui] [BranchPruner] Last prune took place 21 hours ago - skipping
+2023-06-15T15:09:39.263Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.7-zen1-1-zen)
+2023-06-15T15:09:39.264Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-06-15T15:09:40.302Z - info: [ui] Subscribed 'XanuduBuster' to Alive channel
+2023-06-15T15:09:42.560Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 0.6s of which 0.0s paused, total 0.6s
+2023-06-15T15:09:44.602Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: hewol.github.io - XanuduBuster (has token)
+2023-06-15T15:09:46.046Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.408s)
+2023-06-15T15:09:47.172Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.123s)
+2023-06-15T15:11:13.221Z - info: [ui] [Timing] Action 'create commit' for 'hewol/hewol.github.io' took 0.234s
+2023-06-15T15:11:14.953Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: hewol.github.io - XanuduBuster (has token)
+2023-06-15T15:11:17.077Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 2.117s)
+2023-06-15T15:11:18.201Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.106s)
+2023-06-15T15:11:19.334Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.131s)
+2023-06-15T15:11:22.642Z - info: [ui] [BranchPruner] Last prune took place 21 hours ago - skipping
+2023-06-15T15:11:23.578Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.046s)
+2023-06-15T15:11:24.753Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.167s)
+2023-06-15T15:12:40.623Z - info: [ui] [Timing] Action 'create commit' for 'hewol/archscripts' took 0.120s
+2023-06-15T15:12:41.835Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: archscripts - XanuduBuster (has token)
+2023-06-15T15:12:44.023Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 2.183s)
+2023-06-15T15:12:45.166Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.129s)
+2023-06-15T15:12:46.173Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.006s)
+2023-06-15T15:12:47.745Z - info: [ui] [BranchPruner] Last prune took place 21 hours ago - skipping
+2023-06-15T15:12:49.003Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - XanuduBuster (has token)
+2023-06-15T15:12:50.116Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.065s)
+2023-06-15T15:12:51.491Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.374s)
+2023-06-15T15:14:23.366Z - info: [ui] [AppStore] loading 3 repositories from store
+2023-06-15T15:14:23.376Z - info: [ui] [AppStore] found account: XanuduBuster (Xanudu)
+2023-06-15T15:14:23.438Z - info: [ui] [BranchPruner] Last prune took place 21 hours ago - skipping
+2023-06-15T15:14:23.734Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.7-zen1-1-zen)
+2023-06-15T15:14:23.737Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-06-15T15:14:24.766Z - info: [ui] Subscribed 'XanuduBuster' to Alive channel
+2023-06-15T15:14:27.106Z - info: [ui] [BranchPruner] Last prune took place 5 minutes ago - skipping
+2023-06-15T15:18:13.225Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 1.5s of which 0.0s paused, total 1.5s

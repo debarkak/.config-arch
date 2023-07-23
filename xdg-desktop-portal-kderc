@@ -1,0 +1,8 @@
+[FileDialogSize]
+1920x1080 screen: Height=600
+1920x1080 screen: Width=980
+
+[KFileDialog Settings]
+Recent Files[$e]=file:///mnt/data69/aeros-pic.png,file:///mnt/data69/void-live-x86_64-20221001-xfce.iso,file:///mnt/data69/ventoy-1.0.91-linux.tar.gz,file:///mnt/data69/balenaEtcher-1.18.4-x64.appimage,file:///mnt/data69/ubuntu-unity-22.04.1.iso,file:///mnt/data69/hewol/aerOS/iso-profile/archlive/out/aerOS-2023.05.28-x86_64.iso,file:$HOME/Downloads/video.mp4,file:///mnt/data69/hewol logo.png,file:///mnt/data69/hewol/aerOS/iso-profile/LICENSE,file:$HOME/Downloads/OWNERSHIP_DOC_copy.pdf,file:$HOME/Downloads/CzechRepublic.iso,file:$HOME/Recording 1.flac,file:$HOME/Documents/danek face.png,file:///mnt/data69/logo-removebg-preview.png,file:$HOME/Downloads/Windows-11-Pro-Lite.png,file:$HOME/Documents/logo.png
+Recent URLs[$e]=file:///mnt/data69/Projects/,file:///mnt/data69/,file:$HOME/,file:///,file:$HOME/Documents/,file:$HOME/Desktop/,file:$HOME/Downloads/,file:///mnt/data69/hewol/aerOS/iso-profile/
+detailViewIconSize=16

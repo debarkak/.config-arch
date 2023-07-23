@@ -1,0 +1,5 @@
+//!wrt $BSPEC:{"icn":"apps/wine","cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"WINE emulator for Windows 96.","frn":"bWINE Installer","ver":1,"ssy":"gui"}
+
+const{Theme:Theme,DialogCreator:DialogCreator}=w96.ui,{sideloadZip:sideloadZip}=w96.util;class BoxedWineApplication extends WApplication{constructor(){super()}async main(o){await super.main(o),DialogCreator.confirm("In order to use WINE, you will need to download it (approx 620K).<br><br>Would you like to continue?",{icon:await Theme.getIconUrl("apps/wine","32x32")},(async o=>{if(!o)return void this.ontermination();const e=DialogCreator.progress("Downloading WINE package, please wait...");e.wnd.setControlBoxStyle("WS_CBX_NONE");try{await sideloadZip("/system/sideload/bwinepkg.zip"),e.close(),DialogCreator.alert("WINE has successfully been installed.",{icon:"info"})}catch(o){DialogCreator.alert("Something went wrong whilst downloading the package:<br><br>"+String(o),{icon:"error"})}this.ontermination()}))}}
+
+return await WApplication.execAsync(new BoxedWineApplication(), this.boxedEnv.args, this);

@@ -1,0 +1,21 @@
+00:00:01.172581 VirtualBox GUI VM Selector Window 7.0.8 r156879 linux.amd64 (Apr 18 2023 21:49:14) release log
+00:00:01.172583 Log opened 2023-06-06T12:38:22.087340000Z
+00:00:01.172583 Build Type: release
+00:00:01.172585 OS Product: Linux
+00:00:01.172586 OS Release: 6.3.5-zen1-1-zen
+00:00:01.172586 OS Version: #1 ZEN SMP PREEMPT_DYNAMIC Tue, 30 May 2023 13:43:47 +0000
+00:00:01.172605 DMI Product Name: Vostro 3590
+00:00:01.172611 DMI Product Version: 
+00:00:01.172617 Firmware type: UEFI
+00:00:01.173174 Secure Boot: Disabled
+00:00:01.173212 Host RAM: 3767MB (3.6GB) total, 1422MB available
+00:00:01.173214 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:01.173215 Process ID: 41966
+00:00:01.173215 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:01.173247 Qt version: 5.15.9
+00:00:01.174535 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:01.184552 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.032790 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x32 x 1920x1048
+00:00:02.060768 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:03.251179 GUI: UICommon: Handling aboutToQuit request..
+00:00:04.572699 GUI: UICommon: aboutToQuit request handled!

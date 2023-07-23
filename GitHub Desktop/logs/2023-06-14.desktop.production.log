@@ -1,0 +1,46 @@
+2023-06-14T17:58:24.399Z - info: [ui] [AppStore] loading 3 repositories from store
+2023-06-14T17:58:24.406Z - info: [ui] [AppStore] found account: Debarka-Kundu (Debarka Kundu)
+2023-06-14T17:58:24.537Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.7-zen1-1-zen)
+2023-06-14T17:58:24.539Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-06-14T17:58:25.169Z - info: [ui] [BranchPruner] No branches to prune.
+2023-06-14T17:58:25.553Z - info: [ui] Subscribed 'Debarka-Kundu' to Alive channel
+2023-06-14T17:58:26.033Z - info: [ui] Stats reported.
+2023-06-14T17:58:26.919Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.988s)
+2023-06-14T17:58:28.192Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.270s)
+2023-06-14T17:58:31.797Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - Debarka-Kundu (has token)
+2023-06-14T17:58:33.059Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.210s)
+2023-06-14T17:58:34.749Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.688s)
+2023-06-14T18:00:31.067Z - info: [ui] [AppStore] removing account Debarka-Kundu (Debarka Kundu) from store
+2023-06-14T18:00:31.080Z - info: [ui] Unubscribed 'Debarka-Kundu' from Alive channel
+2023-06-14T18:00:35.064Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-06-14T18:00:35.074Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=de109acc-89a0-426b-a348-3ecde37a99d3
+2023-06-14T18:00:49.144Z - info: [main] Received possible protocol arguments: 3
+2023-06-14T18:00:49.144Z - info: [main] Processing protocol url
+2023-06-14T18:00:49.145Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-06-14T18:00:50.442Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.047s)
+2023-06-14T18:00:50.743Z - info: [ui] [SignInStore] account resolved
+2023-06-14T18:00:50.744Z - info: [ui] [AppStore] adding account XanuduBuster (Xanudu) to store
+2023-06-14T18:00:51.565Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.121s)
+2023-06-14T18:00:51.582Z - info: [ui] Subscribed 'XanuduBuster' to Alive channel
+2023-06-14T18:00:52.280Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: hewol.github.io - XanuduBuster (has token)
+2023-06-14T18:00:53.936Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.635s)
+2023-06-14T18:00:54.903Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 3 repositories took 5.8s of which 0.0s paused, total 5.8s
+2023-06-14T18:01:03.869Z - info: [ui] Subscribed 'XanuduBuster' to Alive channel
+2023-06-14T18:01:03.878Z - info: [ui] [AppStore] loading 3 repositories from store
+2023-06-14T18:01:03.878Z - info: [ui] [AppStore] found account: XanuduBuster (Xanudu)
+2023-06-14T18:01:03.913Z - info: [ui] [BranchPruner] Last prune took place 3 minutes ago - skipping
+2023-06-14T18:01:04.206Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.7-zen1-1-zen)
+2023-06-14T18:01:04.208Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-06-14T18:01:08.473Z - info: [ui] [BranchPruner] No branches to prune.
+2023-06-14T18:01:17.283Z - info: [ui] [BranchPruner] Last prune took place 3 minutes ago - skipping
+2023-06-14T18:01:20.892Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 0.1s of which 0.0s paused, total 0.1s
+2023-06-14T18:01:58.652Z - info: [ui] [Timing] Action 'create commit' for 'hewol/aerOS' took 0.790s
+2023-06-14T18:02:00.474Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - XanuduBuster (has token)
+2023-06-14T18:02:15.992Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 15.508s)
+2023-06-14T18:02:17.280Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.283s)
+2023-06-14T18:02:18.342Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.061s)
+2023-06-14T18:05:07.460Z - info: [ui] [Timing] Action 'create commit' for 'hewol/aerOS' took 0.187s
+2023-06-14T18:05:09.151Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - XanuduBuster (has token)
+2023-06-14T18:05:11.390Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 2.234s)
+2023-06-14T18:05:12.650Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.230s)
+2023-06-14T18:05:13.693Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.038s)

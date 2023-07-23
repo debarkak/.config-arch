@@ -1,0 +1,18 @@
+[Level1]
+Name1=deb
+Name2=deb
+Name3=
+Name4=
+Name5=
+Score1=9
+Score2=6
+Score3=0
+Score4=0
+Score5=0
+
+[MainWindow]
+1920x1080 screen: Window-Maximized=true
+RestorePositionForNextInstance=false
+
+[general]
+customFont=false

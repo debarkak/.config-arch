@@ -1,0 +1,6 @@
+NAME="aerOS"
+ID=woofos
+ID_LIKE=arch
+BUILD_ID=rolling
+PRETTY_NAME="aerOS"
+ANSI_COLOR="46;1;46;1;46"

@@ -1,0 +1,7 @@
+[MainWindow]
+1920x1080 screen: Height=324
+1920x1080 screen: Width=454
+
+[WalletEditor]
+AlwaysShowContents=false
+SplitterSize=49,49

@@ -1,0 +1,5 @@
+//!wrt $BSPEC:{"icn":"apps/matrix","cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"Matrix","frn":"Matrix","ver":1,"ssy":"gui"}
+
+const{Theme:Theme}=w96.ui,{WindowParams:WindowParams}=w96;class MatrixApplication extends WApplication{constructor(){super()}async main(e){super.main(e),this._createWindow()}async _createWindow(){var e=new WindowParams;e.title="Matrix",e.initialWidth=540,e.initialHeight=361;var t=this.createWindow(e,!0);t.registerWindow(),t.registerAppBar(),t.setHtml('<iframe src="/system/apps/matrix2"></iframe>');t.wndObject.querySelector(".window-html-content").classList.add("matrix-app"),t.setWindowIcon(await Theme.getIconUrl("apps/matrix","16x16"));const i=t.wndObject.querySelector("iframe");t.ondarkenelements=()=>{i.style.pointerEvents="none"},t.onlightenelements=()=>{i.style.pointerEvents=""},this.appFrame=i,this.mainwnd=t,t.show()}}
+
+return await WApplication.execAsync(new MatrixApplication(), this.boxedEnv.args, this);

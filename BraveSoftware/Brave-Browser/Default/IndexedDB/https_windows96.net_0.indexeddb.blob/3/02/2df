@@ -1,0 +1,5 @@
+//!wrt $BSPEC:{"icn":"apps/base64","cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"Base64 tool","frn":"Base64","ver":1,"ssy":"gui"}
+
+const{MsgBoxSimple:MsgBoxSimple}=w96.ui;class Base64Application extends WApplication{constructor(){super()}async main(e){super.main(e),this._createWindow()}_createWindow(){MsgBoxSimple.prompt("Base64","Enter a string to convert to Base64","",(e=>{e&&""!=e.trim()&&MsgBoxSimple.info("Base64",btoa(e),"OK")}))}}
+
+return await WApplication.execAsync(new Base64Application(), this.boxedEnv.args, this);

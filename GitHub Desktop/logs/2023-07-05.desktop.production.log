@@ -1,0 +1,12 @@
+2023-07-05T05:28:11.192Z - info: [ui] [AppStore] loading 3 repositories from store
+2023-07-05T05:28:11.205Z - info: [ui] [AppStore] found account: Debarka-Kundu (Debarka Kundu)
+2023-07-05T05:28:11.801Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.9-zen1-1-zen)
+2023-07-05T05:28:11.801Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-07-05T05:28:12.023Z - info: [ui] Subscribed 'Debarka-Kundu' to Alive channel
+2023-07-05T05:28:12.705Z - info: [ui] Stats reported.
+2023-07-05T05:28:16.632Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - Debarka-Kundu (has token)
+2023-07-05T05:28:17.960Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.312s)
+2023-07-05T05:28:23.784Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - Debarka-Kundu (has token)
+2023-07-05T05:28:23.955Z - info: [ui] [Timing] Action 'checkout branch from list' for 'hewol/aerOS' took 0.171s
+2023-07-05T05:28:31.426Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - Debarka-Kundu (has token)
+2023-07-05T05:28:32.416Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - Debarka-Kundu (has token)

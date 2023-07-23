@@ -1,0 +1,5 @@
+//!wrt $BSPEC:{"icn":"apps/gltest","cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"WebGL Tester","frn":"GLTest","ver":1,"ssy":"gui"}
+
+const{Theme:Theme}=w96.ui,{WindowParams:WindowParams}=w96;class GLTestApplication extends WApplication{constructor(){super()}async main(e){super.main(e),this._createWindow()}async _createWindow(){var e=new WindowParams;e.title="OpenGL Test Window",e.initialWidth=540,e.initialHeight=361;var t=this.createWindow(e,!0);t.registerWindow(),t.registerAppBar(),t.setHtml('</div><iframe src="/system/apps/gltest"></iframe>');t.wndObject.querySelector(".window-html-content").classList.add("if-app"),t.setWindowIcon(await Theme.getIconUrl("apps/gltest","16x16"));const n=t.wndObject.querySelector("iframe");t.ondarkenelements=()=>{n.style.pointerEvents="none"},t.onlightenelements=()=>{n.style.pointerEvents=""},this.appFrame=n,this.mainwnd=t,t.show()}}
+
+return await WApplication.execAsync(new GLTestApplication(), this.boxedEnv.args, this);

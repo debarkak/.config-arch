@@ -1,0 +1,6 @@
+2023/06/20-07:36:27.720 3 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 2/Local Storage/leveldb/MANIFEST-000001
+2023/06/20-07:36:27.724 3 Recovering log #34
+2023/06/20-07:36:27.726 3 Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 2/Local Storage/leveldb/000034.log 
+2023/06/20-07:38:40.270 5 Level-0 table #38: started
+2023/06/20-07:38:40.302 5 Level-0 table #38: 1680718 bytes OK
+2023/06/20-07:38:40.308 5 Delete type=0 #34

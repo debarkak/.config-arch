@@ -1,0 +1,10 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+1920x1080 screen: XPosition=0
+1920x1080 screen: YPosition=0
+ClassName=KHC::MainWindow
+ObjectName=MainWindow
+State=AAAA/wAAAAD9AAAAAAAAAyAAAAIFAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+eDP-1=eDP-1

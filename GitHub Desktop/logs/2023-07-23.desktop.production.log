@@ -1,0 +1,50 @@
+2023-07-23T06:04:22.892Z - info: [ui] [AppStore] loading 3 repositories from store
+2023-07-23T06:04:22.900Z - info: [ui] [AppStore] found account: Debarka-Kundu (Debarka Kundu)
+2023-07-23T06:04:23.158Z - info: [ui] launching: 3.2.5-linux1 (Linux 6.4.3-zen1-1-zen)
+2023-07-23T06:04:23.159Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-07-23T06:04:23.794Z - info: [ui] Subscribed 'Debarka-Kundu' to Alive channel
+2023-07-23T06:04:24.126Z - info: [ui] Stats reported.
+2023-07-23T06:04:30.486Z - info: [ui] [BranchPruner] No branches to prune.
+2023-07-23T06:04:32.187Z - info: [ui] [BranchPruner] Last prune took place 9 seconds ago - skipping
+2023-07-23T06:04:39.190Z - info: [ui] [BranchPruner] No branches to prune.
+2023-07-23T06:04:40.220Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - debarkak (has token)
+2023-07-23T06:04:40.241Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: archscripts - debarkak (has token)
+2023-07-23T06:04:41.072Z - info: [ui] [BranchPruner] Last prune took place 18 seconds ago - skipping
+2023-07-23T06:04:41.253Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.011s)
+2023-07-23T06:04:42.286Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.032s)
+2023-07-23T06:04:42.350Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: hewol.github.io - debarkak (has token)
+2023-07-23T06:04:43.899Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.548s)
+2023-07-23T06:04:44.897Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 3 repositories took 4.7s of which 0.0s paused, total 4.7s
+2023-07-23T06:04:45.464Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 13.323s)
+2023-07-23T06:04:52.247Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - debarkak (has token)
+2023-07-23T06:04:54.028Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.730s)
+2023-07-23T06:07:38.294Z - info: [main] Received possible protocol arguments: 2
+2023-07-23T06:08:17.933Z - info: [ui] [BranchPruner] Last prune took place 4 minutes ago - skipping
+2023-07-23T06:08:19.210Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: hewol.github.io - debarkak (has token)
+2023-07-23T06:08:21.226Z - info: [ui] [BranchPruner] Last prune took place 4 minutes ago - skipping
+2023-07-23T06:11:00.500Z - info: [ui] [AppStore] adding repository at /home/debarka/.config/.config-arch to store
+2023-07-23T06:11:12.345Z - info: [ui] [BranchPruner] No branches to prune.
+2023-07-23T06:11:24.250Z - info: [ui] storing generic credentials for 'github.com' and 'debarkak'
+2023-07-23T06:11:24.298Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: .config-arch - debarkak (has token)
+2023-07-23T06:11:29.636Z - info: [ui] [AppStore] removing account debarkak (Debarka Kundu) from store
+2023-07-23T06:11:29.642Z - info: [ui] Unubscribed 'Debarka-Kundu' from Alive channel
+2023-07-23T06:11:31.621Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-07-23T06:11:31.632Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=027f1a05-0083-48f0-a58e-24fc3122f02d
+2023-07-23T06:11:33.312Z - info: [main] Received possible protocol arguments: 3
+2023-07-23T06:11:33.313Z - info: [main] Processing protocol url
+2023-07-23T06:11:33.319Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-07-23T06:11:33.495Z - info: [main] Received possible protocol arguments: 2
+2023-07-23T06:11:33.501Z - info: [main] Processing protocol url
+2023-07-23T06:11:34.623Z - info: [ui] [SignInStore] account resolved
+2023-07-23T06:11:34.624Z - info: [ui] [AppStore] adding account debarkak (Debarka Kundu) to store
+2023-07-23T06:11:35.406Z - info: [ui] Subscribed 'debarkak' to Alive channel
+2023-07-23T06:11:36.896Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: .config-arch - debarkak (has token)
+2023-07-23T06:11:38.500Z - info: [ui] Executing push: git -c credential.helper= push origin main --set-upstream --progress (took 1.569s)
+2023-07-23T06:14:51.217Z - info: [ui] [BranchPruner] Last prune took place 10 minutes ago - skipping
+2023-07-23T06:15:03.279Z - info: [ui] [AppStore] adding repository at /home/debarka/.config to store
+2023-07-23T06:15:04.666Z - info: [ui] [BranchPruner] Last prune took place 4 minutes ago - skipping
+2023-07-23T06:15:05.648Z - info: [ui] Executing isUsingLFS: git lfs track (took 2.340s)
+2023-07-23T06:15:06.002Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-07-23T06:15:06.023Z - info: [ui] [BranchPruner] Last prune took place 4 minutes ago - skipping
+2023-07-23T06:15:21.313Z - info: [ui] [Timing] Action 'create commit' for 'debarkak/.config-arch' took 1.784s

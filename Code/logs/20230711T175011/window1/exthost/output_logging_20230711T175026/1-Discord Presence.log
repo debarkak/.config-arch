@@ -1,0 +1,7 @@
+[11/07/2023 17:50:26 - INFO] Discord Presence activated
+[11/07/2023 17:50:26 - INFO] Creating discord-rpc client
+[11/07/2023 17:50:27 - INFO] Successfully connected to Discord
+[11/07/2023 17:50:27 - DEBUG] Loading git extension
+[11/07/2023 17:50:31 - TRACE] VSCode language id: python
+[11/07/2023 17:50:34 - TRACE] VSCode language id: markdown
+[11/07/2023 17:51:16 - TRACE] VSCode language id: shellscript

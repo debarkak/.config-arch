@@ -1,0 +1,5 @@
+//!wrt $BSPEC:{"icn":null,"cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"","frn":"ZIP Mounter UI","ver":1,"ssy":"gui"}
+
+const{MsgBoxSimple:MsgBoxSimple,DialogCreator:DialogCreator}=w96.ui,{ZipReadOnlyFileSystem:ZipReadOnlyFileSystem}=w96.fstype,{execCmd:execCmd}=w96.sys;class ZipMountApplication extends WApplication{constructor(){super()}async main(e){if(super.main(e),!e[1])return void DialogCreator.alert("No ZIP file was specified.",{icon:"error"});if(!await FS.exists(e[1]))return void DialogCreator.alert("ZIP file does not exist.",{icon:"error"});const i=FS.nextLetter();if(!i)return void DialogCreator.alert("Out of drive letters.",{icon:"error"});const r=MsgBoxSimple.idleProgress("ZIP Mounter","Mounting ZIP file, please wait...");try{const r=new ZipReadOnlyFileSystem(i,await FS.readbin(e[1]));r.volumeLabel=FSUtil.fname(e[1]),await FS.mount(r)}catch(e){DialogCreator.alert(e,{icon:"error"})}r.closeDialog(),execCmd("explorer",[i+"/"])}}
+
+return await WApplication.execAsync(new ZipMountApplication(), this.boxedEnv.args, this);

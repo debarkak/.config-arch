@@ -1,0 +1,2 @@
+2023-07-19 17:05:55.820 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/debarka/Downloads/Lean/openbox-3/themerc","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-07-19 17:05:56.609 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.

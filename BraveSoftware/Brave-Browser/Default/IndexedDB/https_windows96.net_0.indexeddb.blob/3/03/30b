@@ -1,0 +1,3 @@
+//!wrt $BSPEC:{"icn":null,"cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"","frn":"reboot","ver":1,"ssy":"gui"}
+
+w96.sys.reboot();

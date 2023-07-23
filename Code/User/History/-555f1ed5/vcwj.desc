@@ -1,0 +1,23 @@
+---
+componentName:  manjaro
+
+strings:
+    productName:         aerOS Linux
+    shortProductName:    aerOS
+    version:             1
+    shortVersion:        1
+    versionedName:       aerOS Linux v1 "aerOnar"
+    shortVersionedName:  aerOS v1
+    bootloaderEntryName: aerOS
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "logo.png"
+    productWelcome:      "languages.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#292F34"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#292F34"

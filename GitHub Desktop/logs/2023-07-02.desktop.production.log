@@ -1,0 +1,31 @@
+2023-07-02T09:20:55.767Z - info: [ui] [AppStore] loading 3 repositories from store
+2023-07-02T09:20:55.786Z - info: [ui] [AppStore] found account: XanuduBuster (Xanudu)
+2023-07-02T09:20:56.475Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.9-zen1-1-zen)
+2023-07-02T09:20:56.476Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-07-02T09:20:56.736Z - info: [ui] Subscribed 'XanuduBuster' to Alive channel
+2023-07-02T09:20:57.677Z - info: [ui] Stats reported.
+2023-07-02T09:21:00.296Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 2.877s)
+2023-07-02T09:21:01.059Z - info: [ui] [AppStore] removing account XanuduBuster (Xanudu) from store
+2023-07-02T09:21:01.087Z - info: [ui] Unubscribed 'XanuduBuster' from Alive channel
+2023-07-02T09:21:04.392Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-07-02T09:21:04.405Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=a0bd2052-1268-4e61-9d1d-31ed574aebf0
+2023-07-02T09:21:06.360Z - info: [main] Received possible protocol arguments: 3
+2023-07-02T09:21:06.362Z - info: [main] Processing protocol url
+2023-07-02T09:21:06.362Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-07-02T09:21:06.662Z - info: [main] Received possible protocol arguments: 2
+2023-07-02T09:21:13.526Z - info: [ui] [SignInStore] account resolved
+2023-07-02T09:21:13.562Z - info: [ui] [AppStore] adding account Debarka-Kundu (Debarka Kundu) to store
+2023-07-02T09:21:14.378Z - info: [ui] Subscribed 'Debarka-Kundu' to Alive channel
+2023-07-02T09:21:19.209Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - Debarka-Kundu (has token)
+2023-07-02T09:21:22.169Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 2.918s)
+2023-07-02T09:21:30.771Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 8.600s)
+2023-07-02T09:21:59.769Z - info: [ui] [BranchPruner] No branches to prune.
+2023-07-02T09:22:01.841Z - info: [ui] [BranchPruner] No branches to prune.
+2023-07-02T09:22:03.957Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: hewol.github.io - Debarka-Kundu (has token)
+2023-07-02T09:22:07.775Z - info: [ui] [BranchPruner] Last prune took place 1 minute ago - skipping
+2023-07-02T09:22:08.010Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 3.980s)
+2023-07-02T09:22:10.163Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 2.149s)
+2023-07-02T09:52:42.267Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 2.135s)
+2023-07-02T10:05:08.439Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 6.9s of which 878.9s paused, total 885.8s
+2023-07-02T10:23:23.811Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 3.503s)
+2023-07-02T10:23:28.536Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 4.716s)

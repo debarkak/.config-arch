@@ -1,0 +1,16 @@
+[
+	{
+		"resolution": "32x32",
+		"searchPaths": [
+			"W:/system/resource/themes/$THEMENAME$/icons",
+			"!W:/system/resource/themes/$THEMENAME$/icons/small",
+			"!W:/system/resource/themes/$THEMENAME$/icons/24x24"
+		]
+	},
+	{
+		"resolution": "16x16",
+		"searchPaths": [
+			"W:/system/resource/themes/$THEMENAME$/icons/small"
+		]
+	}
+]

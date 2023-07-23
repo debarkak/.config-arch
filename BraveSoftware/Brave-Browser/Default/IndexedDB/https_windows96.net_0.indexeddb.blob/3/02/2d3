@@ -1,0 +1,11 @@
+/*
+Fart CSS file.
+*/
+
+.start_button {
+	background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjEuNWRHWFIAAAB+SURBVDhPtY4BDoAgDAP3dH6OLTAsOgLE2KSRjV7FflNKKavbei0HcrbBW0UR+DRicckO7Eb8XaIFGIsX863n37GKgChTdfJ8N7C4AOMQVOsdz2SLPhdQXsIvxh5UwDM8kxmkr/AStd63XagempmZGp2rhCbgElYpdAQeyOwC+/NmSAOm9lIAAAAASUVORK5CYII=');
+}
+
+.start_button::after {
+	content: 'Fart';
+}

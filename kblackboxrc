@@ -1,0 +1,12 @@
+[KgDifficulty]
+Level=Medium
+
+[MainWindow]
+1920x1080 screen: XPosition=0
+1920x1080 screen: YPosition=69
+State=AAAA/wAAAAD9AAAAAAAAAmEAAAG7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[default]
+highlight_enabled=true

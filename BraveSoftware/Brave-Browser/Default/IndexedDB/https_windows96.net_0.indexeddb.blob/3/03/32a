@@ -1,0 +1,6 @@
+{
+    "id": "sh96",
+    "name": "The Windows 96 Shell",
+    "command": "$internal_sh96$",
+    "args": []
+}

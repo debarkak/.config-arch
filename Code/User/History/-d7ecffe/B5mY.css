@@ -1,0 +1,47 @@
+/* Reset default margin and padding */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2; /* Grey background color */
+}
+
+header {
+    background-color: #333; /* Dark grey header background color */
+    color: #fff; /* White header text color */
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+#about-me {
+    margin: 20px 0;
+}
+
+#about-me h2 {
+    color: #333; /* Dark grey heading color */
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.social-links a {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+/* Style social media icons (you can use actual image icons or font icons) */
+.social-links img {
+    width: 30px;
+    height: 30px;
+}

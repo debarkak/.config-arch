@@ -1,0 +1,5 @@
+//!wrt $BSPEC:{"icn":"apps/pinball","cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"Pinball","frn":"3D Pinball - Space Cadet","ver":1,"ssy":"gui"}
+
+const{WindowParams:WindowParams}=w96,{Theme:Theme}=w96.ui;class PinballApplication extends WApplication{constructor(){super()}async main(a){super.main(a),await this._createWindow()}async _createWindow(){const a=this.createWindow({title:"3D Pinball for Windows - Space Cadet",initialHeight:460,initialWidth:600,controlBoxStyle:"WS_CBX_MINCLOSE",bodyClass:"eyeframe-app",icon:await Theme.getIconUrl("apps/pinball","16x16"),body:'<iframe src="/system/apps/pinball"></iframe>',taskbar:!0,resizable:!1},!0);a.show();a.getBodyContainer().querySelector("iframe").focus()}}
+
+return await WApplication.execAsync(new PinballApplication(), this.boxedEnv.args, this);

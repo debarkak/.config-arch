@@ -1,0 +1,20 @@
+[
+    { "name": "Textpad", "icon": "apps/textpad", "exec": "textpad", "assoc": ["txt", "log"] },
+	{ "name": "Open With", "icon": "mime/unknown", "exec": "openwith", "assoc": [] },
+	{ "name": "MD Viewer", "icon": "apps/mdview", "exec": "mdview", "assoc": ["md"] },
+	{ "name": "Image Viewer", "icon": "mime/image-png", "exec": "imgviewer", "assoc": ["jpg", "png", "gif", "webp", "avif", "jxl"] },
+	{ "name": "NES", "icon": "apps/nes", "exec": "nes", "assoc": ["nes"] },
+	{ "name": "DOSBox", "icon": "apps/dosbox", "exec": "dosbox", "assoc": [] },
+	{ "name": "WASM Tools", "icon": "apps/wasm-tools", "exec": "wasm-tools", "assoc": ["wasm"] },
+	{ "name": "InternetE", "icon": "apps/iexploder", "exec": "internete", "assoc": ["html", "htm", "url"] },
+	{ "name": "Super Player", "icon": "apps/super-player", "exec": "super-player", "assoc": ["swf", "flv"] },
+	{ "name": "Monaco", "icon": "apps/monaco", "exec": "monaco", "assoc": ["js", "css", "json", "wat", "cfg", "yml"] },
+	{ "name": "MPlayer", "icon": "apps/mplayer", "exec": "mplayer", "assoc": ["mp3", "ogg", "wav", "flac", "mp4", "webm", "mov"] },
+	{ "name": "BassoonTracker", "icon": "apps/bassoon", "exec": "bassoon", "assoc": ["mod", "xm"] },
+	{ "name": "PDF Reader", "icon": "mime/pdf", "exec": "pdf-reader", "assoc": ["pdf"] },
+	{ "name": "WMBox", "icon": "apps/wmbox", "exec": "wmbox", "assoc": [] },
+	{ "exec": "wmbx-v86", "assoc": ["wmx"] },
+	{ "exec": "zip-mounter-ui", "assoc": ["zip"] },
+	{ "exec": "wex", "assoc": ["wex"] },
+	{ "exec": "wrtrun", "assoc": ["wrt"] }
+]

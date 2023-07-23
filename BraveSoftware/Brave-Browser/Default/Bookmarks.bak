@@ -1,0 +1,80 @@
+{
+   "checksum": "2230597c3a90e952f9b3f10ac44f1d0c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13326987400527310",
+            "date_last_used": "0",
+            "guid": "748342f9-de7a-4eb1-bc80-38a3511b13e5",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Directory: wallpapers",
+            "type": "url",
+            "url": "https://malwarewatch.org/images/wallpapers/"
+         }, {
+            "date_added": "13328065253866432",
+            "date_last_used": "0",
+            "guid": "d484989a-22f4-40e2-816f-e906e2927446",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "woof-os/iso-profile: ISO profile for building Woof OS using `archiso` (qtile)",
+            "type": "url",
+            "url": "https://github.com/woof-os/iso-profile"
+         }, {
+            "date_added": "13330100363409572",
+            "date_last_used": "0",
+            "guid": "dfe98337-5cca-4174-9f80-018db7346cbb",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Codespaces",
+            "type": "url",
+            "url": "https://github.com/codespaces"
+         }, {
+            "date_added": "13331369199401078",
+            "date_last_used": "0",
+            "guid": "2bc50bb7-4050-4123-bf2f-844314e47c4d",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Local Hewol Website",
+            "type": "url",
+            "url": "file:///mnt/data69/hewol/hewol-web/hewol.github.io/index.html"
+         } ],
+         "date_added": "13326987215756611",
+         "date_last_used": "0",
+         "date_modified": "13331369199401078",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13326987215756613",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13326987215756615",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

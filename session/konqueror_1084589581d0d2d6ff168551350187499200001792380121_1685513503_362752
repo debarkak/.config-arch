@@ -1,0 +1,55 @@
+[1]
+1920x1080 screen: Height=497
+1920x1080 screen: Width=424
+1920x1080 screen: XPosition=0
+1920x1080 screen: YPosition=0
+FullScreen=false
+HistoryItemViewT0_0LocationBarURL=konq:blank
+HistoryItemViewT0_0StrServiceName=webenginepart
+HistoryItemViewT0_0StrServiceType=text/html
+HistoryItemViewT0_0Title=
+HistoryItemViewT0_0Url=konq:blank
+HistoryItemViewT0_1Buffer=
+HistoryItemViewT0_1DoPost=true
+HistoryItemViewT0_1LocationBarURL=
+HistoryItemViewT0_1PageReferrer=
+HistoryItemViewT0_1PageSecurity=3538993
+HistoryItemViewT0_1PostContentType=
+HistoryItemViewT0_1PostData=
+HistoryItemViewT0_1StrServiceName=
+HistoryItemViewT0_1StrServiceType=
+HistoryItemViewT0_1Title=
+HistoryItemViewT0_1Url=
+MenuBar=Disabled
+RootItem=Tabs0
+State=AAAA/wAAAAD9AAAAAAAAAagAAAHHAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHgBsAG8AYwBhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAFO/////wAAAAAAAAAAAAAAAgAAAAEAAAAeAGIAbwBvAGsAbQBhAHIAawBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+StatusBar=Enabled
+Tabs0_Children=ViewT0
+Tabs0_activeChildIndex=0
+ViewT0_CurrentHistoryItem=1
+ViewT0_LinkedView=false
+ViewT0_LockedLocation=false
+ViewT0_NumberOfHistoryItems=2
+ViewT0_PassiveMode=false
+ViewT0_ServiceName=dolphinpart
+ViewT0_ServiceType=inode/directory
+ViewT0_ShowStatusBar=false
+ViewT0_ToggleView=false
+eDP-1=eDP-1
+
+[Number]
+NumberOfWindows=1
+
+[PreloadedWindows]
+PreloadedWindowsNumber=
+
+[WindowProperties1]
+1920x1080 screen: Height=497
+1920x1080 screen: Width=424
+1920x1080 screen: XPosition=0
+1920x1080 screen: YPosition=0
+ClassName=KonqMainWindow
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAAagAAAHHAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHgBsAG8AYwBhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAFO/////wAAAAAAAAAAAAAAAgAAAAEAAAAeAGIAbwBvAGsAbQBhAHIAawBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+eDP-1=eDP-1

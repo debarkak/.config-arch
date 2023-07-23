@@ -1,0 +1,5 @@
+//!wrt $BSPEC:{"icn":"apps/blocks","cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"Blocks","frn":"Blocks","ver":1,"ssy":"gui"}
+
+const{Theme:Theme}=w96.ui,{WindowParams:WindowParams}=w96;class BlocksApplication extends WApplication{constructor(){super()}async main(e){super.main(e),await this._createWindow()}async _createWindow(){var e=new WindowParams;e.title="Blocks",e.initialWidth=540,e.initialHeight=361;var t=this.createWindow(e,!0);t.registerWindow(),t.registerAppBar(),t.setHtml('<iframe src="/system/apps/blocks"></iframe>');t.wndObject.querySelector(".window-html-content").classList.add("blocks-app"),t.setWindowIcon(await Theme.getIconUrl("apps/blocks","16x16"));const n=t.wndObject.querySelector("iframe");t.ondarkenelements=()=>{n.style.pointerEvents="none"},t.onlightenelements=()=>{n.style.pointerEvents=""},this.appFrame=n,this.mainwnd=t,t.show()}}
+
+return await WApplication.execAsync(new BlocksApplication(), this.boxedEnv.args, this);

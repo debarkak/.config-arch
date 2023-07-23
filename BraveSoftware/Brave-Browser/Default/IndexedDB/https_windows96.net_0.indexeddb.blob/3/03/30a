@@ -1,0 +1,5 @@
+//!wrt $BSPEC:{"icn":"apps/pumkin","cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"Pumkin World","frn":"Pumkin World","ver":1,"ssy":"gui"}
+
+const{WindowParams:WindowParams}=w96,{Theme:Theme}=w96.ui;class PumkinGameApplication extends WApplication{constructor(){super()}async main(e){super.main(e),this._createWindow()}async _createWindow(){var e=new WindowParams;e.title="Pumkin World",e.initialWidth=485,e.initialHeight=400;var n=this.createWindow(e,!0);n.registerWindow(),n.registerAppBar(),n.setHtml('<iframe src="/system/apps/pumkin"></iframe>');n.wndObject.querySelector(".window-html-content").classList.add("eyeframe-app"),n.setWindowIcon(await Theme.getIconUrl("apps/pumkin","16x16"));const t=n.wndObject.querySelector("iframe");n.ondarkenelements=()=>{t.style.pointerEvents="none"},n.onlightenelements=()=>{t.style.pointerEvents=""},this.appFrame=t,this.mainwnd=n,n.show()}}
+
+return await WApplication.execAsync(new PumkinGameApplication(), this.boxedEnv.args, this);

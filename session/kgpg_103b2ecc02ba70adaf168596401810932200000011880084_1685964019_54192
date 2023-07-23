@@ -1,0 +1,20 @@
+[Number]
+NumberOfWindows=2
+
+[WindowProperties1]
+2 screens: XPosition=0
+2 screens: YPosition=0
+ClassName=KeysManager
+HDMI-1 eDP-1=eDP-1
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAAzkAAACpAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+
+[WindowProperties2]
+2 screens: XPosition=0
+2 screens: YPosition=0
+ClassName=KgpgEditor
+HDMI-1 eDP-1=eDP-1
+MenuBar=Disabled
+ObjectName=editor
+State=AAAA/wAAAAD9AAAAAAAAAzkAAACpAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA

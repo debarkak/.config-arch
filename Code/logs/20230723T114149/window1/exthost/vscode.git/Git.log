@@ -1,0 +1,20 @@
+2023-07-23 11:41:51.943 [info] Log level: Info
+2023-07-23 11:41:51.943 [info] Validating found git in: "git"
+2023-07-23 11:41:51.943 [info] Using git "2.41.0" from "git"
+2023-07-23 11:41:51.943 [info] > git rev-parse --show-toplevel [17ms]
+2023-07-23 11:41:51.943 [info] > git rev-parse --git-dir --git-common-dir [11ms]
+2023-07-23 11:41:51.943 [info] Open repository: /home/debarka/.config/.config-arch
+2023-07-23 11:41:51.943 [info] > git config --get commit.template [48ms]
+2023-07-23 11:41:51.961 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2023-07-23 11:41:52.023 [info] > git status -z -uall [46ms]
+2023-07-23 11:41:52.217 [info] > git config --get commit.template [96ms]
+2023-07-23 11:41:52.304 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-07-23 11:41:52.316 [info] > git status -z -uall [4ms]
+2023-07-23 11:41:52.449 [info] > git check-ignore -v -z --stdin [6ms]
+2023-07-23 11:41:52.668 [info] > git fetch [816ms]
+2023-07-23 11:41:52.682 [info] > git config --get commit.template [9ms]
+2023-07-23 11:41:52.690 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2023-07-23 11:41:52.705 [info] > git status -z -uall [3ms]
+2023-07-23 11:41:53.786 [info] > git config --get commit.template [16ms]
+2023-07-23 11:41:53.788 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-07-23 11:41:53.813 [info] > git status -z -uall [3ms]

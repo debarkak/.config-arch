@@ -1,0 +1,6 @@
+2023/07/03-11:24:01.695 9be Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/03-11:24:01.697 9be Recovering log #11
+2023/07/03-11:24:01.711 9be Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000011.log 
+2023/07/03-11:24:19.330 9bf Level-0 table #16: started
+2023/07/03-11:24:19.352 9bf Level-0 table #16: 1447746 bytes OK
+2023/07/03-11:24:19.354 9bf Delete type=0 #11

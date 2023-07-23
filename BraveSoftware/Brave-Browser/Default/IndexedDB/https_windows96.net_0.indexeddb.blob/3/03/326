@@ -1,0 +1,5 @@
+//!wrt $BSPEC:{"icn":null,"cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"","frn":"WRT runner program","ver":1,"ssy":"cli"}
+
+const{WRT:WRT}=w96;class WRTRunApplication extends WApplication{constructor(){super()}async main(t){await super.main(t),this.title="wrtrun";const n=[...t];n.shift(),null!=n[0]&&""!=n[0].trim()?(await WRT.runFile(n[0],{boxedEnv:{cwd:current.cwd,args:n},envType:"terminal"}),this.terminate()):this.terminate()}}
+
+return await WApplication.execAsync(new WRTRunApplication(), this.boxedEnv.args, this);

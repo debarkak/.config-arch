@@ -1,0 +1,19 @@
+# Windows 96 volume manager
+
+# -- !! To enable volume management, please rename this file to volmgr.cfg to tell the system to pick it up !! --
+
+# Mount partitions on boot here
+# [c:] will be mounted automatically, if you wish to disable this, you can unmount it with `- c:`
+
+# + <LETTER> <FSTYPE> [LABEL] [ARGS]
+# < > = required, [ ] = optional
+#  FSTYPE specifies a file system (idb, lstor, ram, rofs)
+#  LETTER specifies a drive letter (a:, b:, d:, etc.)
+#  LABEL specifies a drive label (MyLabel). Spaces are not allowed.
+#  ARGS specifies additional driver arguments.
+
+# - <LETTER>
+#  where LETTER specifies a drive letter (a:, b:, d:, etc.)
+
+# Example:
+# + d: idb Data

@@ -1,0 +1,5 @@
+//!wrt $BSPEC:{"icn":"apps/shareboard","cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"ShareBoard posting board","frn":"ShareBoard","ver":1,"ssy":"gui"}
+
+const{WindowParams:WindowParams}=w96,{Theme:Theme}=w96.ui;class BoardApplication extends WApplication{constructor(){super()}async main(e){super.main(e),this._createWindow()}async _createWindow(){var e=new WindowParams;e.title="ShareBoard",e.initialWidth=640,e.initialHeight=441;var t=this.createWindow(e,!0);t.registerWindow(),t.registerAppBar(),t.setHtml('<iframe src="https://sb.windows96.net/"></iframe>');t.wndObject.querySelector(".window-html-content").classList.add("win96chat-app"),t.setWindowIcon(await Theme.getIconUrl("apps/shareboard","16x16"));const n=t.wndObject.querySelector("iframe");t.ondarkenelements=()=>{n.style.pointerEvents="none"},t.onlightenelements=()=>{n.style.pointerEvents=""},this.appFrame=n,this.mainwnd=t,t.show()}}
+
+return await WApplication.execAsync(new BoardApplication(), this.boxedEnv.args, this);

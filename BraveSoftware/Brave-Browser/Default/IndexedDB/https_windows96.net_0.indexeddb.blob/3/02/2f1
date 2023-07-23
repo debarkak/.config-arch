@@ -1,0 +1,5 @@
+//!wrt $BSPEC:{"icn":"apps/gameing","cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"Gameing Sandbox Game (Streamed)","frn":"Gameing Runner","ver":1,"ssy":"gui"}
+
+const{Theme:Theme}=w96.ui,{WindowParams:WindowParams}=w96,LATEST_RELEASE="v020_wgl",RELEASE_SERVE_URL="https://serve01.windows96.net/gameing/versions/$BUILD$/dl";class GameingApplication extends WApplication{constructor(){super()}async main(e){super.main(e),this._createWindow(e)}async _createWindow(e){let n="v020_wgl";null!=e[1]&&(n=e[1]);var t=new WindowParams;t.title="Gameing",t.initialWidth=640,t.initialHeight=441;var i=this.createWindow(t,!0);i.registerWindow(),i.registerAppBar(),i.setHtml(`<iframe src="${RELEASE_SERVE_URL.replace(/\$BUILD\$/g,n)}"></iframe>`);i.wndObject.querySelector(".window-html-content").classList.add("gameing-app"),i.setWindowIcon(await Theme.getIconUrl("apps/gameing","16x16"));const a=i.wndObject.querySelector("iframe");a.onload=()=>{},i.ondarkenelements=()=>{a.style.pointerEvents="none"},i.onlightenelements=()=>{a.style.pointerEvents=""},this.appFrame=a,this.mainwnd=i,i.show()}}
+
+return await WApplication.execAsync(new GameingApplication(), this.boxedEnv.args, this);

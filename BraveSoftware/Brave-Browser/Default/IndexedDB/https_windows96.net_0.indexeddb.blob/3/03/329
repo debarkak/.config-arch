@@ -1,0 +1,7 @@
+This folder will let you register fonts.
+
+Simply drag and drop your font into this folder from your real pc and it will load.
+
+Note that many fonts will slow down the OS, so be wise with which fonts you want to load.
+
+If you load a font called Test.ttf, it will be referenced in CSS as "Test"

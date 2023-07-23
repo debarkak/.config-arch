@@ -1,0 +1,30 @@
+2023-07-11 17:50:13.453 [info] Extension host with pid 3735 started
+2023-07-11 17:50:13.535 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-11 17:50:13.547 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2023-07-11 17:50:13.561 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-07-11 17:50:13.611 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-11 17:50:13.690 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-11 17:50:13.750 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-07-11 17:50:14.053 [info] Eager extensions activated
+2023-07-11 17:50:14.056 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-11 17:50:14.060 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-11 17:50:25.235 [info] Extension host terminating: renderer closed the MessagePort
+2023-07-11 17:50:25.248 [info] Extension host with pid 3735 exiting with code 0
+2023-07-11 17:50:26.671 [info] Extension host with pid 3992 started
+2023-07-11 17:50:26.671 [info] Skipping acquiring lock for /home/debarka/.config/Code/User/workspaceStorage/e35bb14cd1ac00b85bc492a988955717.
+2023-07-11 17:50:26.765 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-11 17:50:26.771 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2023-07-11 17:50:26.795 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-07-11 17:50:26.866 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-11 17:50:26.911 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-11 17:50:27.058 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-07-11 17:50:27.249 [info] Eager extensions activated
+2023-07-11 17:50:27.251 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-11 17:50:27.279 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-11 17:50:31.169 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onCommand:ipynb.newUntitledIpynb'
+2023-07-11 17:50:31.457 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-11 17:50:34.226 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-07-11 17:50:34.242 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-07-11 17:50:34.859 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-07-11 17:51:22.296 [info] Extension host terminating: renderer closed the MessagePort
+2023-07-11 17:51:22.310 [info] Extension host with pid 3992 exiting with code 0

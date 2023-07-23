@@ -1,0 +1,26 @@
+2023-06-19T13:43:01.411Z - info: [ui] [AppStore] loading 3 repositories from store
+2023-06-19T13:43:01.419Z - info: [ui] [AppStore] found account: XanuduBuster (Xanudu)
+2023-06-19T13:43:01.910Z - info: [ui] launching: 3.2.1-linux1 (Linux 6.3.7-zen1-1-zen)
+2023-06-19T13:43:01.910Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-06-19T13:43:03.042Z - info: [ui] Subscribed 'XanuduBuster' to Alive channel
+2023-06-19T13:43:03.626Z - info: [ui] Stats reported.
+2023-06-19T13:43:13.655Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - XanuduBuster (has token)
+2023-06-19T13:43:14.735Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: hewol.github.io - XanuduBuster (has token)
+2023-06-19T13:43:15.429Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.759s)
+2023-06-19T13:43:16.067Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.323s)
+2023-06-19T13:43:16.930Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.500s)
+2023-06-19T13:43:17.311Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.243s)
+2023-06-19T13:43:17.383Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 3.4s of which 0.0s paused, total 3.4s
+2023-06-19T13:49:24.075Z - info: [ui] [Timing] Action 'create commit' for 'hewol/aerOS' took 0.192s
+2023-06-19T13:49:25.753Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - XanuduBuster (has token)
+2023-06-19T13:49:28.069Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 2.265s)
+2023-06-19T13:49:29.210Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.134s)
+2023-06-19T13:49:30.409Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.196s)
+2023-06-19T13:59:51.116Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 1.3s of which 17.9s paused, total 19.1s
+2023-06-19T14:00:13.390Z - info: [ui] [Timing] Action 'create commit' for 'hewol/aerOS' took 0.123s
+2023-06-19T14:00:15.977Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - XanuduBuster (has token)
+2023-06-19T14:00:17.469Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.452s)
+2023-06-19T14:00:18.561Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.086s)
+2023-06-19T14:00:25.240Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - XanuduBuster (has token)
+2023-06-19T14:00:27.545Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 2.277s)
+2023-06-19T14:00:28.760Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.196s)

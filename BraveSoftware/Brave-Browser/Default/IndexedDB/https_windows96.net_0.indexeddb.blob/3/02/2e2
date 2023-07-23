@@ -1,0 +1,3 @@
+//!wrt $BSPEC:{"icn":null,"cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"","frn":"BSOD","ver":1,"ssy":"gui"}
+
+const{renderBSOD:renderBSOD}=w96.sys,{MsgBoxSimple:MsgBoxSimple}=w96.ui,args=this.boxedEnv.args;null!=args[1]?renderBSOD(args[1]):MsgBoxSimple.prompt("BSOD","Enter your message below","",(e=>{null!=e&&""!=e.trim()&&renderBSOD(e)}));

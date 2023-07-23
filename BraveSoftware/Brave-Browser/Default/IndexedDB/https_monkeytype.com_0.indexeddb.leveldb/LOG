@@ -1,0 +1,6 @@
+2023/07/12-18:59:03.699 af6 Creating DB /home/debarka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb since it was missing.
+2023/07/12-18:59:03.705 af6 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/12-18:59:03.779 b05 Level-0 table #5: started
+2023/07/12-18:59:03.780 b05 Level-0 table #5: 1228 bytes OK
+2023/07/12-18:59:03.784 b05 Delete type=0 #3
+2023/07/12-18:59:03.784 af6 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

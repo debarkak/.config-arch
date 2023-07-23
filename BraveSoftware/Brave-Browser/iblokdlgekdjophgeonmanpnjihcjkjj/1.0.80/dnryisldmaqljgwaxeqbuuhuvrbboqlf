@@ -1,0 +1,1 @@
+{"locale": "us", "version": 1, "timestamp": "2023-05-15 15:22:11", "conversion_id_patterns": {"https://hydrow.com/order/*": {"search_in": "url", "id_pattern": "/order/([a-zA-Z0-9]*)"}}}

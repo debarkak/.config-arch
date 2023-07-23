@@ -1,0 +1,17 @@
+Files placed here will load on boot.
+
+auto-sys.js is the default boot file and always executes first, no matter what.
+
+Supported file types are: CSS, JavaScript, WASM
+
+If you wish to load files in order, you may prefix them using a number since the directory is read in alphabetical order.
+
+Subdirectories are not read, so you can create a subdirectory to hold any data if you wish.
+
+-- Notes about .css files --
+
+If you are seeking to create themes, we urge you to use the official format rather than distributing .css files.
+
+-- If your system becomes unbootable --
+
+Simply hold ALT+I to enter recovery mode. Then, open the file explorer and navigate to X:/system/boot to delete the broken script.

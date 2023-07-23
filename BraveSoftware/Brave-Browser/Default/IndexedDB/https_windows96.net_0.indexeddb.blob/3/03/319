@@ -1,0 +1,5 @@
+//!wrt $BSPEC:{"icn":"misc/troll","cpr":"Copyright (C) Windows 96 Team 2023.","dsc":"Trolling program.","frn":"Troll","ver":1,"ssy":"gui"}
+
+const{MsgBoxSimple:MsgBoxSimple,DialogCreator:DialogCreator}=w96.ui,{wait:wait}=w96.util;class TrollApplication extends WApplication{constructor(){super()}async main(o){super.main(o);const t=MsgBoxSimple.idleProgress("Important","Generating troll juice...");await wait(2e3),DialogCreator.create({title:"Error",icon:"error",body:"Failed to generate troll juice.<br><br>This might be an issue with your computer.",buttons:[{id:"ok",text:"OK",action:o=>{o.dlg.close(),t.closeDialog()}}]})}}
+
+return await WApplication.execAsync(new TrollApplication(), this.boxedEnv.args, this);

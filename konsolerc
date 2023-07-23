@@ -1,0 +1,23 @@
+[General]
+ConfigVersion=1
+
+[MainWindow]
+1024x768 screen: Height=701
+1024x768 screen: Width=960
+1920x1080 screen: Height=750
+1920x1080 screen: Width=1440
+1920x1080 screen: XPosition=300
+1920x1080 screen: YPosition=201
+2 screens: Height=543
+2 screens: Width=904
+2 screens: XPosition=574
+2 screens: YPosition=350
+640x360 screen: Height=293
+640x360 screen: Width=630
+HDMI-1 eDP-1=HDMI-1
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAToA////+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAAA6gD///8AAAWgAAACyQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAAMn/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[UiSettings]
+ColorScheme=
