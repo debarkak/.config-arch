@@ -48,3 +48,21 @@
 Error: EISDIR: illegal operation on a directory, read
 2023-07-23T06:15:06.023Z - info: [ui] [BranchPruner] Last prune took place 4 minutes ago - skipping
 2023-07-23T06:15:21.313Z - info: [ui] [Timing] Action 'create commit' for 'debarkak/.config-arch' took 1.784s
+2023-07-23T06:16:25.251Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 65.487s)
+2023-07-23T06:16:27.005Z - info: [ui] [BranchPruner] Last prune took place 12 minutes ago - skipping
+2023-07-23T06:16:47.854Z - info: [ui] Executing createCommit: git commit -F - (took 22.578s)
+2023-07-23T06:16:50.022Z - info: [ui] [Timing] Action 'create commit' for 'debarkak/.config-arch' took 91.792s
+2023-07-23T06:23:21.763Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 1.0s of which 0.0s paused, total 1.0s
+2023-07-23T06:23:31.769Z - info: [ui] [AppStore] adding repository at /home/debarka/.config to store
+2023-07-23T06:23:33.139Z - info: [ui] [BranchPruner] Last prune took place 12 minutes ago - skipping
+2023-07-23T06:23:33.443Z - info: [ui] Executing isUsingLFS: git lfs track (took 1.645s)
+2023-07-23T06:23:33.490Z - info: [ui] [BranchPruner] Last prune took place 12 minutes ago - skipping
+2023-07-23T06:23:33.920Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-07-23T06:23:45.538Z - info: [ui] Executing getChangesFiles: git log 8da5563d36cd741adfbbd9dda335f36976554a9f -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 11.500s)
+2023-07-23T06:23:47.612Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: .config-arch - debarkak (has token)
+2023-07-23T06:23:51.696Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 3.991s)
+2023-07-23T06:23:59.291Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: .config-arch - debarkak (has token)
+2023-07-23T06:26:58.001Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 178.683s)
+2023-07-23T06:26:59.211Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.165s)
+2023-07-23T06:27:00.283Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.069s)
