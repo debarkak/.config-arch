@@ -1,0 +1,21 @@
+2023-07-25 11:50:35.356 [info] Log level: Info
+2023-07-25 11:50:35.356 [info] Validating found git in: "git"
+2023-07-25 11:50:35.356 [info] Using git "2.41.0" from "git"
+2023-07-25 11:50:35.356 [info] > git rev-parse --show-toplevel [20ms]
+2023-07-25 11:50:35.356 [info] > git rev-parse --git-dir --git-common-dir [16ms]
+2023-07-25 11:50:35.356 [info] Open repository: /home/debarka/.config/BetterDiscord/themes
+2023-07-25 11:50:35.384 [info] > git rev-parse --show-toplevel [34ms]
+2023-07-25 11:50:35.476 [info] > git rev-parse --show-toplevel [61ms]
+2023-07-25 11:50:35.519 [info] > git config --get commit.template [134ms]
+2023-07-25 11:50:35.524 [info] > git rev-parse --show-toplevel [11ms]
+2023-07-25 11:50:35.608 [info] > git rev-parse --show-toplevel [75ms]
+2023-07-25 11:50:35.689 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [83ms]
+2023-07-25 11:50:35.796 [info] > git status -z -uall [44ms]
+2023-07-25 11:50:35.883 [info] > git config --get commit.template [50ms]
+2023-07-25 11:50:35.928 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2023-07-25 11:50:35.976 [info] > git status -z -uall [41ms]
+2023-07-25 11:50:36.046 [info] > git check-ignore -v -z --stdin [3ms]
+2023-07-25 11:50:49.819 [info] > git fetch [906ms]
+2023-07-25 11:50:49.848 [info] > git config --get commit.template [14ms]
+2023-07-25 11:50:49.849 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-07-25 11:50:49.887 [info] > git status -z -uall [25ms]

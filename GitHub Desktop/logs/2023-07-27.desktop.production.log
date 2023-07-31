@@ -1,0 +1,12 @@
+2023-07-27T07:02:24.250Z - info: [ui] [AppStore] loading 6 repositories from store
+2023-07-27T07:02:24.261Z - info: [ui] [AppStore] found account: debarkak (Debarka Kundu)
+2023-07-27T07:02:25.218Z - info: [ui] launching: 3.2.5-linux1 (Linux 6.4.4-zen1-1-zen)
+2023-07-27T07:02:25.220Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-07-27T07:02:25.446Z - info: [ui] Subscribed 'debarkak' to Alive channel
+2023-07-27T07:02:26.278Z - info: [ui] Stats reported.
+2023-07-27T07:02:31.368Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - debarkak (has token)
+2023-07-27T07:02:33.103Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.699s)
+2023-07-27T07:02:45.961Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - debarkak (has token)
+2023-07-27T07:02:47.130Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 5 repositories took 4.1s of which 0.0s paused, total 4.1s
+2023-07-27T07:02:47.161Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.157s)
+2023-07-27T07:02:49.711Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS - debarkak (has token)

@@ -1,6 +1,0 @@
-2023/07/03-17:21:43.968 ba2 Creating DB /home/debarka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_archive.org_0.indexeddb.leveldb since it was missing.
-2023/07/03-17:21:43.972 ba2 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_archive.org_0.indexeddb.leveldb/MANIFEST-000001
-2023/07/03-17:21:59.136 ba3 Level-0 table #5: started
-2023/07/03-17:21:59.138 ba3 Level-0 table #5: 1742 bytes OK
-2023/07/03-17:21:59.141 ba3 Delete type=0 #3
-2023/07/03-17:21:59.142 ba3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

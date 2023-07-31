@@ -1,0 +1,15 @@
+2023-07-24T11:40:46.191Z - info: [ui] [AppStore] loading 4 repositories from store
+2023-07-24T11:40:46.199Z - info: [ui] [AppStore] found account: debarkak (Debarka Kundu)
+2023-07-24T11:40:46.447Z - info: [ui] launching: 3.2.5-linux1 (Linux 6.4.4-zen1-1-zen)
+2023-07-24T11:40:46.448Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-07-24T11:40:47.070Z - info: [ui] Subscribed 'debarkak' to Alive channel
+2023-07-24T11:40:47.468Z - info: [ui] Stats reported.
+2023-07-24T11:40:47.705Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-07-24T11:41:18.528Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 3 repositories took 1.6s of which 0.0s paused, total 1.6s
+2023-07-24T11:41:51.114Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hewol/aerOS-se.git - debarkak (has token)
+2023-07-24T11:41:52.590Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/hewol/aerOS-se.git /mnt/data69/hewol/aerOS/aeros-server/aerOS-se (took 1.468s)
+2023-07-24T11:42:04.832Z - info: [ui] [BranchPruner] No branches to prune.
+2023-07-24T11:43:10.695Z - info: [ui] [Timing] Action 'create commit' for 'hewol/aerOS-se' took 0.173s
+2023-07-24T11:43:12.072Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS-se - debarkak (has token)
+2023-07-24T11:43:14.015Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 1.937s)

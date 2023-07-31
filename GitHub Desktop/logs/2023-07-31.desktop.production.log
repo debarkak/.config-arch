@@ -1,0 +1,10 @@
+2023-07-31T12:22:07.645Z - info: [ui] [AppStore] loading 6 repositories from store
+2023-07-31T12:22:07.657Z - info: [ui] [AppStore] found account: debarkak (Debarka Kundu)
+2023-07-31T12:22:08.487Z - info: [ui] launching: 3.2.5-linux1 (Linux 6.4.7-zen1-1-zen)
+2023-07-31T12:22:08.487Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-07-31T12:22:08.929Z - info: [ui] Subscribed 'debarkak' to Alive channel
+2023-07-31T12:22:10.133Z - info: [ui] Stats reported.
+2023-07-31T12:22:30.619Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-07-31T12:22:31.213Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS-se - debarkak (has token)
+2023-07-31T12:22:33.494Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 5 repositories took 4.8s of which 0.0s paused, total 4.8s

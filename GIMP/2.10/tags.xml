@@ -1363,6 +1363,9 @@
   <resource identifier="Adobe Utopia Medium Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Arabic Newspaper" checksum="(null)">
+  </resource>
+
   <resource identifier="B&amp;H Lucida Bold" checksum="(null)">
   </resource>
 
@@ -1435,13 +1438,118 @@
   <resource identifier="Cantarell Ultra-Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="cursor.pcf" checksum="(null)">
+  </resource>
+
   <resource identifier="D050000L" checksum="(null)">
+  </resource>
+
+  <resource identifier="deccurs.pcf" checksum="(null)">
+  </resource>
+
+  <resource identifier="decsess.pcf" checksum="(null)">
   </resource>
 
   <resource identifier="DEC Terminal" checksum="(null)">
   </resource>
 
   <resource identifier="DEC Terminal Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Math TeX Gyre" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Bold Oblique Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Mono Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Mono Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Oblique Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Serif" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Serif Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Serif Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Serif Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Serif Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Serif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Serif Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Serif Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="East Syriac Adiabene" checksum="(null)">
+  </resource>
+
+  <resource identifier="East Syriac Ctesiphon" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Antioch" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Edessa" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Midyat" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Nisibin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Nisibin Outline" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Quenneshrin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo Talada" checksum="(null)">
+  </resource>
+
+  <resource identifier="Estrangelo TurAbdin" checksum="(null)">
   </resource>
 
   <resource identifier="Font Awesome 6 Brands" checksum="(null)">
@@ -1492,6 +1600,9 @@
   <resource identifier="FreeSerif Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Goha-Tibeb Zemen Medium" checksum="(null)">
+  </resource>
+
   <resource identifier="Liberation Mono" checksum="(null)">
   </resource>
 
@@ -1528,6 +1639,33 @@
   <resource identifier="Liberation Serif Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="micro.pcf" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Medium Oblique Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Wide Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Misc Fixed Wide Medium" checksum="(null)">
+  </resource>
+
   <resource identifier="Monospace" checksum="(null)">
   </resource>
 
@@ -1538,6 +1676,15 @@
   </resource>
 
   <resource identifier="Monospace Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="MUTT ClearlyU Alternate Glyphs Wide" checksum="(null)">
+  </resource>
+
+  <resource identifier="MUTT ClearlyU PUA" checksum="(null)">
+  </resource>
+
+  <resource identifier="MUTT ClearlyU Wide" checksum="(null)">
   </resource>
 
   <resource identifier="Nimbus Mono PS" checksum="(null)">
@@ -2158,6 +2305,12 @@
   <resource identifier="Noto Sans Kannada UI Thin" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Kawi" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Kawi Bold" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Kayah Li" checksum="(null)">
   </resource>
 
@@ -2435,6 +2588,12 @@
   </resource>
 
   <resource identifier="Noto Sans NKo" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans NKo Unjoined" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans NKo Unjoined Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Nushu" checksum="(null)">
@@ -3418,6 +3577,24 @@
   <resource identifier="Sans-serif Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Schumacher Clean" checksum="(null)">
+  </resource>
+
+  <resource identifier="Schumacher Clean Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Schumacher Clean Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Schumacher Clean Wide" checksum="(null)">
+  </resource>
+
+  <resource identifier="Schumacher Clean Wide Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Schumacher Clean Wide Medium Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Serif" checksum="(null)">
   </resource>
 
@@ -3430,7 +3607,46 @@
   <resource identifier="Serif Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Serto Batnan" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Batnan Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Jerusalem" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Jerusalem Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Jerusalem Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Jerusalem Outline" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Kharput" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Malankara" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Mardin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Mardin Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Urhoy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Serto Urhoy Bold" checksum="(null)">
+  </resource>
+
   <resource identifier="Siji" checksum="(null)">
+  </resource>
+
+  <resource identifier="Sony Fixed" checksum="(null)">
   </resource>
 
   <resource identifier="Source Code Pro" checksum="(null)">

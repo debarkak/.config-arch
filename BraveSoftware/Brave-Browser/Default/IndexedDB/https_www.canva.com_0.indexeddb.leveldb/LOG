@@ -1,6 +1,0 @@
-2023/06/27-19:59:46.127 9dc Creating DB /home/debarka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb since it was missing.
-2023/06/27-19:59:46.134 9dc Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/06/27-20:00:33.338 9dd Level-0 table #5: started
-2023/06/27-20:00:33.342 9dd Level-0 table #5: 12710 bytes OK
-2023/06/27-20:00:33.346 9dd Delete type=0 #3
-2023/06/27-20:00:33.348 9e9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

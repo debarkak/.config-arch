@@ -1,3 +1,0 @@
-2023-07-19 17:05:55.247 [info] update#setState idle
-2023-07-19 17:05:57.102 [error] Blocked vscode-file request vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/editor/common/services/editorSimpleWorker.nls.js
-2023-07-19 17:05:57.107 [info] Extension host with pid 16107 exited with code: 0, signal: unknown.

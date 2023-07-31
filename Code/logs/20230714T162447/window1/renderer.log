@@ -1,3 +1,0 @@
-2023-07-14 16:24:48.713 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/debarka/.bash_logout","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2023-07-14 16:24:50.445 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
-2023-07-14 16:24:53.208 [info] [perf] Render performance baseline is 92ms

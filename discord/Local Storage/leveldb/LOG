@@ -1,15 +1,6 @@
-2023/07/20-20:02:45.556 2758 Reusing MANIFEST /home/debarka/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/07/20-20:02:45.557 2758 Recovering log #681
-2023/07/20-20:02:45.557 2758 Reusing old log /home/debarka/.config/discord/Local Storage/leveldb/000681.log 
-2023/07/20-20:05:00.055 27c6 Level-0 table #685: started
-2023/07/20-20:05:00.104 27c6 Level-0 table #685: 1776682 bytes OK
-2023/07/20-20:05:00.114 27c6 Delete type=0 #681
-2023/07/20-20:05:00.114 27c6 Compacting 4@0 + 1@1 files
-2023/07/20-20:05:00.175 27c6 Generated table #686@0: 118 keys, 3386151 bytes
-2023/07/20-20:05:00.176 27c6 Compacted 4@0 + 1@1 files => 3386151 bytes
-2023/07/20-20:05:00.183 27c6 compacted to: files[ 0 2 1 0 0 0 0 ]
-2023/07/20-20:05:00.184 27c6 Delete type=2 #685
-2023/07/20-20:05:00.184 27c6 Delete type=2 #677
-2023/07/20-20:05:00.184 27c6 Delete type=2 #682
-2023/07/20-20:05:00.184 27c6 Delete type=2 #679
-2023/07/20-20:05:00.184 27c6 Delete type=2 #674
+2023/07/29-11:54:40.807 a19 Reusing MANIFEST /home/debarka/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/07/29-11:54:40.808 a19 Recovering log #701
+2023/07/29-11:54:40.808 a19 Reusing old log /home/debarka/.config/discord/Local Storage/leveldb/000701.log 
+2023/07/29-11:56:42.077 9bd Level-0 table #705: started
+2023/07/29-11:56:42.098 9bd Level-0 table #705: 1815700 bytes OK
+2023/07/29-11:56:42.100 9bd Delete type=0 #701

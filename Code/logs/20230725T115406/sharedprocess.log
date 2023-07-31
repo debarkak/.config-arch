@@ -1,0 +1,9 @@
+2023-07-25 12:10:59.616 [error] [uncaught exception in sharedProcess]: A system error occurred (read ECONNRESET): Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-07-25 12:13:26.798 [info] Getting Manifest... github.vscode-github-actions
+2023-07-25 12:13:26.873 [info] Installing extension: github.vscode-github-actions
+2023-07-25 12:13:29.473 [warning] Extension signature verification failed with error 'UnknownError': github.vscode-github-actions
+2023-07-25 12:13:30.101 [info] Extracted extension to /home/debarka/.vscode/extensions/.f5a960f7-fa66-4179-b846-451a756a33a9: github.vscode-github-actions
+2023-07-25 12:13:30.105 [info] Renamed to /home/debarka/.vscode/extensions/github.vscode-github-actions-0.25.8
+2023-07-25 12:13:30.108 [info] Extracting extension completed. github.vscode-github-actions
+2023-07-25 12:13:30.123 [info] Extension installed successfully: github.vscode-github-actions

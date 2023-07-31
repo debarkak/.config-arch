@@ -1,0 +1,22 @@
+2023-07-23 18:09:39.183 [info] Log level: Info
+2023-07-23 18:09:39.183 [info] Validating found git in: "git"
+2023-07-23 18:09:39.183 [info] Using git "2.41.0" from "git"
+2023-07-23 18:09:39.183 [info] > git rev-parse --show-toplevel [6ms]
+2023-07-23 18:09:39.183 [info] > git rev-parse --git-dir --git-common-dir [12ms]
+2023-07-23 18:09:39.183 [info] Open repository: /home/debarka/.config/.config-arch
+2023-07-23 18:09:39.183 [info] > git rev-parse --show-toplevel [24ms]
+2023-07-23 18:09:39.183 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-07-23 18:09:39.183 [info] > git config --get commit.template [3ms]
+2023-07-23 18:09:39.209 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-07-23 18:09:39.225 [info] > git status -z -uall [11ms]
+2023-07-23 18:09:39.239 [info] > git config --get commit.template [2ms]
+2023-07-23 18:09:39.261 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-07-23 18:09:39.272 [info] > git status -z -uall [4ms]
+2023-07-23 18:09:40.150 [info] > git fetch [1002ms]
+2023-07-23 18:09:40.208 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [38ms]
+2023-07-23 18:09:40.208 [info] > git config --get commit.template [46ms]
+2023-07-23 18:09:40.224 [info] > git status -z -uall [4ms]
+2023-07-23 18:09:41.362 [info] > git config --get commit.template [7ms]
+2023-07-23 18:09:41.363 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-07-23 18:09:41.369 [info] > git status -z -uall [2ms]

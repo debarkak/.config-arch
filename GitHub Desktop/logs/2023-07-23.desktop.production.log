@@ -70,3 +70,15 @@ Error: EISDIR: illegal operation on a directory, read
 2023-07-23T06:29:51.709Z - info: [ui] [Timing] Action 'create commit' for 'debarkak/.config-arch' took 7.049s
 2023-07-23T06:30:17.507Z - info: [ui] Executing createCommit: git commit -F - (took 4.638s)
 2023-07-23T06:30:19.095Z - info: [ui] [Timing] Action 'create commit' for 'debarkak/.config-arch' took 6.560s
+2023-07-23T06:31:52.144Z - info: [ui] [Timing] Action 'create commit' for 'debarkak/.config-arch' took 3.310s
+2023-07-23T06:31:52.189Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-07-23T14:52:19.487Z - info: [ui] [AppStore] loading 4 repositories from store
+2023-07-23T14:52:19.495Z - info: [ui] [AppStore] found account: debarkak (Debarka Kundu)
+2023-07-23T14:52:19.578Z - info: [ui] [BranchPruner] Last prune took place 9 hours ago - skipping
+2023-07-23T14:52:19.854Z - info: [ui] launching: 3.2.5-linux1 (Linux 6.4.4-zen1-1-zen)
+2023-07-23T14:52:19.864Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-07-23T14:52:20.412Z - info: [ui] Subscribed 'debarkak' to Alive channel
+2023-07-23T14:52:21.073Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-07-23T14:52:28.714Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.248s)
