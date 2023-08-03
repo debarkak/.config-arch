@@ -1,0 +1,18 @@
+2023-08-03T12:41:45.731Z - info: [ui] [AppStore] loading 6 repositories from store
+2023-08-03T12:41:45.740Z - info: [ui] [AppStore] found account: debarkak (Debarka Kundu)
+2023-08-03T12:41:46.102Z - info: [ui] launching: 3.2.5-linux1 (Linux 6.4.7-zen1-1-zen)
+2023-08-03T12:41:46.148Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-08-03T12:41:46.611Z - info: [ui] Subscribed 'debarkak' to Alive channel
+2023-08-03T12:41:47.368Z - info: [ui] Stats reported.
+2023-08-03T12:41:48.352Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-08-03T12:41:50.160Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.476s)
+2023-08-03T12:42:09.196Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: aerOS-se - debarkak (has token)
+2023-08-03T12:42:10.578Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.371s)
+2023-08-03T12:42:12.059Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 5 repositories took 5.3s of which 0.0s paused, total 5.3s
+2023-08-03T12:42:12.732Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hewol/aerOS-refresh.git - debarkak (has token)
+2023-08-03T12:42:14.275Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/hewol/aerOS-refresh.git /mnt/data69/hewol/aerOS/aerOS-refresh (took 1.535s)
+2023-08-03T12:42:16.797Z - info: [ui] [BranchPruner] No branches to prune.
+2023-08-03T12:42:24.641Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-08-03T12:42:24.683Z - info: [ui] [BranchPruner] Last prune took place 39 seconds ago - skipping

@@ -1,0 +1,31 @@
+2023-08-03 18:08:20.754 [info] Log level: Info
+2023-08-03 18:08:20.754 [info] Validating found git in: "git"
+2023-08-03 18:08:20.754 [info] Using git "2.41.0" from "git"
+2023-08-03 18:08:20.754 [info] > git rev-parse --show-toplevel [14ms]
+2023-08-03 18:08:20.758 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2023-08-03 18:08:20.785 [info] Open repository: /mnt/data69/hewol/aerOS/iso-profile
+2023-08-03 18:08:20.852 [info] > git config --get commit.template [29ms]
+2023-08-03 18:08:20.915 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [28ms]
+2023-08-03 18:08:21.462 [info] > git check-ignore -v -z --stdin [11ms]
+2023-08-03 18:08:22.040 [info] > git status -z -uall [1113ms]
+2023-08-03 18:08:22.040 [info] > git show --textconv :LICENSE [102ms]
+2023-08-03 18:08:22.041 [info] > git ls-files --stage -- /mnt/data69/hewol/aerOS/iso-profile/LICENSE [91ms]
+2023-08-03 18:08:22.152 [info] > git cat-file -s 086d9a6eef62e74d5030348c51fa3c6525c26121 [90ms]
+2023-08-03 18:08:22.269 [info] > git config --get commit.template [127ms]
+2023-08-03 18:08:22.326 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [30ms]
+2023-08-03 18:08:22.497 [info] > git fetch [1713ms]
+2023-08-03 18:08:22.497 [info] From https://github.com/hewol/aerOS
+   877ff53..64b111f  master     -> origin/master
+2023-08-03 18:08:22.523 [info] > git status -z -uall [174ms] (cancelled)
+2023-08-03 18:08:22.551 [info] > git config --get commit.template [28ms]
+2023-08-03 18:08:22.578 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-08-03 18:08:23.062 [info] > git status -z -uall [472ms]
+2023-08-03 18:08:23.903 [info] > git ls-files --stage -- /mnt/data69/hewol/aerOS/iso-profile/LICENSE [65ms]
+2023-08-03 18:08:23.916 [info] > git cat-file -s 086d9a6eef62e74d5030348c51fa3c6525c26121 [3ms]
+2023-08-03 18:08:23.947 [info] > git show --textconv :LICENSE [11ms]
+2023-08-03 18:08:40.407 [info] Log level: Info
+2023-08-03 18:08:40.407 [info] Validating found git in: "git"
+2023-08-03 18:08:40.407 [info] Using git "2.41.0" from "git"
+2023-08-03 18:08:40.407 [info] > git rev-parse --show-toplevel [8ms]
+2023-08-03 18:08:40.407 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

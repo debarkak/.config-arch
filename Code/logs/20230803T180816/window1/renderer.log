@@ -1,0 +1,4 @@
+2023-08-03 18:08:19.401 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2023-08-03 18:08:22.293 [info] [perf] Render performance baseline is 73ms
+2023-08-03 18:08:39.321 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2023-08-03 18:08:42.015 [info] [perf] Render performance baseline is 76ms

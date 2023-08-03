@@ -1,0 +1,6 @@
+2023/08/02-15:07:25.319 6a08 Creating DB /home/debarka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/08/02-15:07:25.325 6a08 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/02-15:07:51.884 6a09 Level-0 table #5: started
+2023/08/02-15:07:51.886 6a09 Level-0 table #5: 2279 bytes OK
+2023/08/02-15:07:51.888 6a09 Delete type=0 #3
+2023/08/02-15:07:51.889 6a09 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

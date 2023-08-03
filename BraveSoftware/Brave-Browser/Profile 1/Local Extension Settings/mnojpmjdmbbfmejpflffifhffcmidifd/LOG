@@ -1,36 +1,12 @@
-2023/07/27-11:59:34.577 a0b Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
-2023/07/27-11:59:34.578 a0b Recovering log #744
-2023/07/27-11:59:34.601 a0b Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000744.log 
-2023/07/27-12:02:38.716 a0c Level-0 table #749: started
-2023/07/27-12:02:38.727 a0c Level-0 table #749: 385787 bytes OK
-2023/07/27-12:02:38.729 a0c Delete type=0 #744
-2023/07/27-12:12:43.433 a0c Compacting 1@0 + 1@1 files
-2023/07/27-12:12:43.442 a0c Generated table #750@0: 9 keys, 77525 bytes
-2023/07/27-12:12:43.442 a0c Compacted 1@0 + 1@1 files => 77525 bytes
-2023/07/27-12:12:43.443 a0c compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/07/27-12:12:43.443 a0c Delete type=2 #749
-2023/07/27-12:12:43.443 a0c Delete type=2 #746
-2023/07/27-12:18:05.905 a0c Level-0 table #752: started
-2023/07/27-12:18:05.926 a0c Level-0 table #752: 386043 bytes OK
-2023/07/27-12:18:05.932 a0c Delete type=0 #748
-2023/07/27-12:23:32.084 a0c Level-0 table #754: started
-2023/07/27-12:23:32.092 a0c Level-0 table #754: 386311 bytes OK
-2023/07/27-12:23:32.094 a0c Delete type=0 #751
-2023/07/27-12:27:30.835 a0c Level-0 table #756: started
-2023/07/27-12:27:30.845 a0c Level-0 table #756: 385620 bytes OK
-2023/07/27-12:27:30.848 a0c Delete type=0 #753
-2023/07/27-12:29:41.961 a0c Level-0 table #758: started
-2023/07/27-12:29:41.971 a0c Level-0 table #758: 385492 bytes OK
-2023/07/27-12:29:41.974 a0c Delete type=0 #755
-2023/07/27-12:29:41.975 a0c Compacting 4@0 + 1@1 files
-2023/07/27-12:29:41.994 a0c Generated table #759@0: 32 keys, 84251 bytes
-2023/07/27-12:29:41.994 a0c Compacted 4@0 + 1@1 files => 84251 bytes
-2023/07/27-12:29:41.995 a0c compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/07/27-12:29:41.995 a0c Delete type=2 #752
-2023/07/27-12:29:41.995 a0c Delete type=2 #756
-2023/07/27-12:29:41.995 a0c Delete type=2 #758
-2023/07/27-12:29:41.995 a0c Delete type=2 #750
-2023/07/27-12:29:41.995 a0c Delete type=2 #754
-2023/07/27-12:37:15.372 a0c Level-0 table #761: started
-2023/07/27-12:37:15.399 a0c Level-0 table #761: 386432 bytes OK
-2023/07/27-12:37:15.403 a0c Delete type=0 #757
+2023/08/02-20:29:48.737 962 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2023/08/02-20:29:48.737 962 Recovering log #795
+2023/08/02-20:29:48.745 962 Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000795.log 
+2023/08/02-21:06:27.419 962 Level-0 table #800: started
+2023/08/02-21:06:27.439 962 Level-0 table #800: 393654 bytes OK
+2023/08/02-21:06:27.443 962 Delete type=0 #795
+2023/08/02-21:24:15.917 963 Compacting 1@0 + 1@1 files
+2023/08/02-21:24:15.929 963 Generated table #801@0: 10 keys, 79900 bytes
+2023/08/02-21:24:15.929 963 Compacted 1@0 + 1@1 files => 79900 bytes
+2023/08/02-21:24:15.932 963 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/08/02-21:24:15.933 963 Delete type=2 #797
+2023/08/02-21:24:15.933 963 Delete type=2 #800

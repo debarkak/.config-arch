@@ -1,0 +1,7 @@
+2023/08/02-20:30:00.234 962 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_www.selfcord.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/02-20:30:00.234 962 Recovering log #6
+2023/08/02-20:30:00.234 962 Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_www.selfcord.com_0.indexeddb.leveldb/000006.log 
+2023/08/02-20:30:00.330 975 Level-0 table #11: started
+2023/08/02-20:30:00.332 975 Level-0 table #11: 722 bytes OK
+2023/08/02-20:30:00.335 975 Delete type=0 #6
+2023/08/02-20:30:00.338 962 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
