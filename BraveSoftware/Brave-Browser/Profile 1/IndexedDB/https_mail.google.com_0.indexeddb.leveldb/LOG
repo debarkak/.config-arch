@@ -1,3 +1,12 @@
-2023/07/03-11:54:33.118 4c3a Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/07/03-11:54:33.118 4c3a Recovering log #15
-2023/07/03-11:54:33.119 4c3a Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000015.log 
+2023/08/03-19:35:46.572 8eb Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/03-19:35:46.573 8eb Recovering log #15
+2023/08/03-19:35:46.575 8eb Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000015.log 
+2023/08/03-19:35:49.810 8eb Compacting 1@1 + 1@2 files
+2023/08/03-19:35:49.826 8eb Generated table #18@1: 86 keys, 28637 bytes
+2023/08/03-19:35:49.826 8eb Compacted 1@1 + 1@2 files => 28637 bytes
+2023/08/03-19:35:49.832 8eb compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/03-19:35:49.833 8eb Delete type=2 #16
+2023/08/03-19:35:49.833 8eb Delete type=2 #13
+2023/08/03-19:36:23.882 8ec Level-0 table #20: started
+2023/08/03-19:36:23.989 8ec Level-0 table #20: 1709708 bytes OK
+2023/08/03-19:36:23.992 8ec Delete type=0 #15

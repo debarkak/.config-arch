@@ -1,4 +1,0 @@
-2023-07-23 17:38:05.277 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
-2023-07-23 17:38:05.610 [error] Offline: Offline: Offline
-    at y.onerror (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:77:1328)
-2023-07-23 17:38:07.419 [info] [perf] Render performance baseline is 47ms

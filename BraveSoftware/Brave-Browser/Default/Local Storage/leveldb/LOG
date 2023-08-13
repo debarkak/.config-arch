@@ -1,9 +1,27 @@
-2023/08/03-18:02:43.878 3 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2023/08/03-18:02:43.879 3 Recovering log #1401
-2023/08/03-18:02:43.880 3 Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/001401.log 
-2023/08/03-18:09:51.096 5 Level-0 table #1405: started
-2023/08/03-18:09:51.101 5 Level-0 table #1405: 50611 bytes OK
-2023/08/03-18:09:51.107 5 Delete type=0 #1401
-2023/08/03-18:11:51.096 6 Level-0 table #1407: started
-2023/08/03-18:11:51.102 6 Level-0 table #1407: 16069 bytes OK
-2023/08/03-18:11:51.115 6 Delete type=0 #1404
+2023/08/13-12:05:47.856 3 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/13-12:05:47.866 3 Recovering log #1542
+2023/08/13-12:05:47.867 3 Level-0 table #1545: started
+2023/08/13-12:05:47.873 3 Level-0 table #1545: 14787 bytes OK
+2023/08/13-12:05:47.879 3 Delete type=0 #1542
+2023/08/13-12:05:47.881 5 Compacting 4@0 + 3@1 files
+2023/08/13-12:05:47.920 5 Generated table #1547@0: 1077 keys, 2370169 bytes
+2023/08/13-12:05:47.989 5 Generated table #1548@0: 298 keys, 2120401 bytes
+2023/08/13-12:05:48.026 5 Generated table #1549@0: 4003 keys, 1171077 bytes
+2023/08/13-12:05:48.026 5 Compacted 4@0 + 3@1 files => 5661647 bytes
+2023/08/13-12:05:48.033 5 compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/08/13-12:05:48.034 5 Delete type=2 #1536
+2023/08/13-12:05:48.034 5 Delete type=2 #1543
+2023/08/13-12:05:48.034 5 Delete type=2 #1539
+2023/08/13-12:05:48.034 5 Delete type=2 #1545
+2023/08/13-12:05:48.034 5 Delete type=2 #1541
+2023/08/13-12:05:48.034 5 Delete type=2 #1535
+2023/08/13-12:05:48.034 5 Delete type=2 #1537
+2023/08/13-12:14:08.262 5 Level-0 table #1551: started
+2023/08/13-12:14:08.265 5 Level-0 table #1551: 16441 bytes OK
+2023/08/13-12:14:08.269 5 Delete type=0 #1546
+2023/08/13-12:16:19.012 3 Level-0 table #1553: started
+2023/08/13-12:16:19.015 3 Level-0 table #1553: 16441 bytes OK
+2023/08/13-12:16:19.019 3 Delete type=0 #1550
+2023/08/13-12:19:41.621 3 Level-0 table #1555: started
+2023/08/13-12:19:41.624 3 Level-0 table #1555: 19194 bytes OK
+2023/08/13-12:19:41.628 3 Delete type=0 #1552

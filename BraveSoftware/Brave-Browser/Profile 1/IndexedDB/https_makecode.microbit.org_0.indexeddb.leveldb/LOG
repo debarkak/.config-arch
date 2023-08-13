@@ -1,0 +1,6 @@
+2023/08/08-17:39:30.140 a3d Creating DB /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_makecode.microbit.org_0.indexeddb.leveldb since it was missing.
+2023/08/08-17:39:30.145 a3d Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_makecode.microbit.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/08-17:40:01.644 a3d Level-0 table #5: started
+2023/08/08-17:40:01.647 a3d Level-0 table #5: 8589 bytes OK
+2023/08/08-17:40:01.649 a3d Delete type=0 #3
+2023/08/08-17:40:01.650 a3d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

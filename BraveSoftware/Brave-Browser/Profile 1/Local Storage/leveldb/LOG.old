@@ -1,46 +1,26 @@
-2023/08/02-12:59:27.505 3 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/Local Storage/leveldb/MANIFEST-000001
-2023/08/02-12:59:27.510 3 Recovering log #161
-2023/08/02-12:59:27.512 3 Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/Local Storage/leveldb/000161.log 
-2023/08/02-13:00:30.753 5 Level-0 table #165: started
-2023/08/02-13:00:30.766 5 Level-0 table #165: 20946 bytes OK
-2023/08/02-13:00:30.781 5 Delete type=0 #161
-2023/08/02-13:06:19.482 5 Level-0 table #167: started
-2023/08/02-13:06:19.506 5 Level-0 table #167: 1791417 bytes OK
-2023/08/02-13:06:19.511 5 Delete type=0 #164
-2023/08/02-13:06:19.512 5 Compacting 4@0 + 2@1 files
-2023/08/02-13:06:19.556 5 Generated table #168@0: 167 keys, 2356031 bytes
-2023/08/02-13:06:19.566 5 Generated table #169@0: 130 keys, 454301 bytes
-2023/08/02-13:06:19.566 5 Compacted 4@0 + 2@1 files => 2810332 bytes
-2023/08/02-13:06:19.567 5 compacted to: files[ 0 2 1 0 0 0 0 ]
-2023/08/02-13:06:19.568 5 Delete type=2 #157
-2023/08/02-13:06:19.568 5 Delete type=2 #160
-2023/08/02-13:06:19.568 5 Delete type=2 #158
-2023/08/02-13:06:19.568 5 Delete type=2 #165
-2023/08/02-13:06:19.568 5 Delete type=2 #162
-2023/08/02-13:06:19.568 5 Delete type=2 #167
-2023/08/02-13:14:26.288 5 Level-0 table #171: started
-2023/08/02-13:14:26.293 5 Level-0 table #171: 34707 bytes OK
-2023/08/02-13:14:26.301 5 Delete type=0 #166
-2023/08/02-13:25:30.730 3 Level-0 table #173: started
-2023/08/02-13:25:30.735 3 Level-0 table #173: 24434 bytes OK
-2023/08/02-13:25:30.741 3 Delete type=0 #170
-2023/08/02-13:36:30.731 5 Level-0 table #175: started
-2023/08/02-13:36:30.738 5 Level-0 table #175: 22528 bytes OK
-2023/08/02-13:36:30.743 5 Delete type=0 #172
-2023/08/02-13:37:58.727 5 Level-0 table #177: started
-2023/08/02-13:37:58.731 5 Level-0 table #177: 15613 bytes OK
-2023/08/02-13:37:58.738 5 Delete type=0 #174
-2023/08/02-13:37:58.738 5 Compacting 4@0 + 2@1 files
-2023/08/02-13:37:58.806 5 Generated table #178@0: 171 keys, 2370640 bytes
-2023/08/02-13:37:58.834 5 Generated table #179@0: 131 keys, 469300 bytes
-2023/08/02-13:37:58.834 5 Compacted 4@0 + 2@1 files => 2839940 bytes
-2023/08/02-13:37:58.836 5 compacted to: files[ 0 2 1 0 0 0 0 ]
-2023/08/02-13:37:58.838 5 Delete type=2 #173
-2023/08/02-13:37:58.838 5 Delete type=2 #169
-2023/08/02-13:37:58.839 5 Delete type=2 #168
-2023/08/02-13:37:58.839 5 Delete type=2 #177
-2023/08/02-13:37:58.839 5 Delete type=2 #175
-2023/08/02-13:37:58.839 5 Delete type=2 #171
-2023/08/02-14:09:30.730 5 Level-0 table #181: started
-2023/08/02-14:09:30.738 5 Level-0 table #181: 17622 bytes OK
-2023/08/02-14:09:30.747 5 Delete type=0 #176
+2023/08/11-15:21:45.380 3 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2023/08/11-15:21:45.383 3 Recovering log #311
+2023/08/11-15:21:45.385 3 Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/Local Storage/leveldb/000311.log 
+2023/08/11-15:44:01.029 5 Level-0 table #317: started
+2023/08/11-15:44:01.034 5 Level-0 table #317: 31782 bytes OK
+2023/08/11-15:44:01.043 5 Delete type=0 #311
+2023/08/11-16:03:26.374 5 Level-0 table #319: started
+2023/08/11-16:03:26.380 5 Level-0 table #319: 22408 bytes OK
+2023/08/11-16:03:26.386 5 Delete type=0 #316
+2023/08/11-16:32:05.679 5 Level-0 table #321: started
+2023/08/11-16:32:05.683 5 Level-0 table #321: 12366 bytes OK
+2023/08/11-16:32:05.692 5 Delete type=0 #318
+2023/08/11-17:04:45.779 3 Level-0 table #323: started
+2023/08/11-17:04:45.791 3 Level-0 table #323: 18935 bytes OK
+2023/08/11-17:04:45.800 3 Delete type=0 #320
+2023/08/11-17:04:45.802 3 Compacting 4@0 + 2@1 files
+2023/08/11-17:04:45.863 3 Generated table #324@0: 214 keys, 2401884 bytes
+2023/08/11-17:04:45.917 3 Generated table #325@0: 255 keys, 491034 bytes
+2023/08/11-17:04:45.917 3 Compacted 4@0 + 2@1 files => 2892918 bytes
+2023/08/11-17:04:45.922 3 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/11-17:04:45.924 3 Delete type=2 #321
+2023/08/11-17:04:45.925 3 Delete type=2 #317
+2023/08/11-17:04:45.927 3 Delete type=2 #314
+2023/08/11-17:04:45.928 3 Delete type=2 #319
+2023/08/11-17:04:45.930 3 Delete type=2 #313
+2023/08/11-17:04:45.930 3 Delete type=2 #323

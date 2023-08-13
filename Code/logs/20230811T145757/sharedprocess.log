@@ -1,0 +1,16 @@
+2023-08-11 14:58:03.618 [info] Getting Manifest... github.vscode-github-actions
+2023-08-11 14:58:03.621 [info] Getting Manifest... ms-vscode.cmake-tools
+2023-08-11 14:58:03.699 [info] Installing extension: github.vscode-github-actions
+2023-08-11 14:58:03.707 [info] Installing extension: ms-vscode.cmake-tools
+2023-08-11 14:58:07.237 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.cmake-tools
+2023-08-11 14:58:07.285 [warning] Extension signature verification failed with error 'UnknownError': github.vscode-github-actions
+2023-08-11 14:58:08.100 [info] Extracted extension to file:///home/debarka/.vscode/extensions/ms-vscode.cmake-tools-1.15.31: ms-vscode.cmake-tools
+2023-08-11 14:58:08.123 [info] Renamed to /home/debarka/.vscode/extensions/ms-vscode.cmake-tools-1.15.31
+2023-08-11 14:58:08.130 [info] Extracting extension completed. ms-vscode.cmake-tools
+2023-08-11 14:58:08.133 [info] Extracted extension to file:///home/debarka/.vscode/extensions/github.vscode-github-actions-0.26.1: github.vscode-github-actions
+2023-08-11 14:58:08.141 [info] Renamed to /home/debarka/.vscode/extensions/github.vscode-github-actions-0.26.1
+2023-08-11 14:58:08.143 [info] Extracting extension completed. github.vscode-github-actions
+2023-08-11 14:58:08.148 [info] Extension installed successfully: ms-vscode.cmake-tools
+2023-08-11 14:58:08.159 [info] Extension installed successfully: github.vscode-github-actions
+2023-08-11 14:58:08.164 [info] Marked extension as uninstalled ms-vscode.cmake-tools-1.14.34
+2023-08-11 14:58:08.168 [info] Marked extension as uninstalled github.vscode-github-actions-0.25.8

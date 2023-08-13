@@ -1,0 +1,7 @@
+2023/08/08-14:16:32.084 1c8f5 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 2/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/08-14:16:32.084 1c8f5 Recovering log #3
+2023/08/08-14:16:32.084 1c8f5 Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 2/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2023/08/08-14:59:27.034 1c8f5 Level-0 table #5: started
+2023/08/08-14:59:27.059 1c8f5 Level-0 table #5: 740603 bytes OK
+2023/08/08-14:59:27.061 1c8f5 Delete type=0 #3
+2023/08/08-14:59:27.062 1c8f5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

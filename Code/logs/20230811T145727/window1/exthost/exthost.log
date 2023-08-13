@@ -1,0 +1,4 @@
+2023-08-11 14:57:29.739 [info] Extension host with pid 4431 started
+2023-08-11 14:57:29.739 [info] Skipping acquiring lock for /home/debarka/.config/Code/User/workspaceStorage/aab38aca60a6abff52004004734d41cd.
+2023-08-11 14:57:29.815 [info] Extension host terminating: renderer closed the MessagePort
+2023-08-11 14:57:29.815 [info] Extension host with pid 4431 exiting with code 0

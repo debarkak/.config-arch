@@ -1,3 +1,6 @@
-2023/08/03-18:11:45.683 292e Reusing MANIFEST /home/debarka/.config/GitHub Desktop/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2023/08/03-18:11:45.683 292e Recovering log #3
-2023/08/03-18:11:45.711 292e Reusing old log /home/debarka/.config/GitHub Desktop/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2023/08/13-12:19:07.210 3118 Reusing MANIFEST /home/debarka/.config/GitHub Desktop/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2023/08/13-12:19:07.211 3118 Recovering log #3
+2023/08/13-12:19:07.267 3118 Reusing old log /home/debarka/.config/GitHub Desktop/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2023/08/13-12:19:08.103 3118 Level-0 table #5: started
+2023/08/13-12:19:08.160 3118 Level-0 table #5: 1662186 bytes OK
+2023/08/13-12:19:08.163 3118 Delete type=0 #3

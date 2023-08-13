@@ -1,2 +1,12 @@
-2023/07/27-11:49:53.359 a0b Creating DB /home/debarka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
-2023/07/27-11:49:53.367 a0b Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/06-16:42:30.221 918 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/06-16:42:30.221 918 Recovering log #4
+2023/08/06-16:42:30.238 918 Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2023/08/06-16:43:00.370 919 Level-0 table #8: started
+2023/08/06-16:43:00.431 919 Level-0 table #8: 2123231 bytes OK
+2023/08/06-16:43:00.434 919 Delete type=0 #4
+2023/08/06-16:43:30.397 926 Compacting 1@1 + 1@2 files
+2023/08/06-16:43:30.411 926 Generated table #9@1: 210 keys, 439374 bytes
+2023/08/06-16:43:30.411 926 Compacted 1@1 + 1@2 files => 439374 bytes
+2023/08/06-16:43:30.413 926 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/06-16:43:30.413 926 Delete type=2 #8
+2023/08/06-16:43:30.413 926 Delete type=2 #5

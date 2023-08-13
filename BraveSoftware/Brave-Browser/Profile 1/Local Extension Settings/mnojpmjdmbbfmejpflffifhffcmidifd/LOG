@@ -1,12 +1,9 @@
-2023/08/02-20:29:48.737 962 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
-2023/08/02-20:29:48.737 962 Recovering log #795
-2023/08/02-20:29:48.745 962 Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000795.log 
-2023/08/02-21:06:27.419 962 Level-0 table #800: started
-2023/08/02-21:06:27.439 962 Level-0 table #800: 393654 bytes OK
-2023/08/02-21:06:27.443 962 Delete type=0 #795
-2023/08/02-21:24:15.917 963 Compacting 1@0 + 1@1 files
-2023/08/02-21:24:15.929 963 Generated table #801@0: 10 keys, 79900 bytes
-2023/08/02-21:24:15.929 963 Compacted 1@0 + 1@1 files => 79900 bytes
-2023/08/02-21:24:15.932 963 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/08/02-21:24:15.933 963 Delete type=2 #797
-2023/08/02-21:24:15.933 963 Delete type=2 #800
+2023/08/13-12:06:51.590 eab Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2023/08/13-12:06:51.590 eab Recovering log #905
+2023/08/13-12:06:51.599 eab Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000905.log 
+2023/08/13-12:16:58.242 eac Compacting 1@0 + 1@1 files
+2023/08/13-12:16:58.265 eac Generated table #908@0: 13 keys, 85267 bytes
+2023/08/13-12:16:58.265 eac Compacted 1@0 + 1@1 files => 85267 bytes
+2023/08/13-12:16:58.274 eac compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/08/13-12:16:58.281 eac Delete type=2 #904
+2023/08/13-12:16:58.281 eac Delete type=2 #906

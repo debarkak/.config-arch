@@ -2318,3 +2318,30 @@
 [Jul 05, 2023, 10:47:47.0 PM:ERROR:publisher.cc(629)] Publisher info not found
 --------------------------------------------------------------------------------
 [Aug 02, 2023, 1:36:07.2 PM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[Aug 06, 2023, 2:11:52.7 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 06, 2023, 2:11:56.0 PM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[Aug 08, 2023, 4:21:13.8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 08, 2023, 4:23:03.0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 08, 2023, 4:46:15.6 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 08, 2023, 4:47:21.7 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 08, 2023, 5:40:20.1 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 08, 2023, 5:41:28.8 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 08, 2023, 5:42:51.0 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 08, 2023, 5:46:18.9 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 08, 2023, 5:46:18.9 PM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[Aug 09, 2023, 1:45:11.5 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 09, 2023, 1:45:11.5 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 09, 2023, 1:45:26.9 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 09, 2023, 1:48:16.1 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 09, 2023, 1:48:16.1 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 09, 2023, 2:04:57.3 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 09, 2023, 2:04:57.3 PM:ERROR:publisher.cc(625)] Publisher info not found
+--------------------------------------------------------------------------------
+[Aug 11, 2023, 4:02:54.9 PM:ERROR:publisher.cc(713)] Failed to retrieve publisher info while updating media duration
+[Aug 11, 2023, 4:02:54.9 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 11, 2023, 4:02:54.9 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 11, 2023, 4:11:23.7 PM:ERROR:publisher.cc(625)] Publisher info not found
+[Aug 11, 2023, 4:11:23.7 PM:ERROR:publisher.cc(625)] Publisher info not found

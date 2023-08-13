@@ -1,95 +1,30 @@
-2023/08/02-12:59:28.271 6a08 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
-2023/08/02-12:59:28.274 6a08 Recovering log #760
-2023/08/02-12:59:28.283 6a08 Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000760.log 
-2023/08/02-13:05:28.203 6a09 Level-0 table #764: started
-2023/08/02-13:05:28.211 6a09 Level-0 table #764: 385834 bytes OK
-2023/08/02-13:05:28.214 6a09 Delete type=0 #760
-2023/08/02-13:11:20.981 6a09 Level-0 table #766: started
-2023/08/02-13:11:21.009 6a09 Level-0 table #766: 385183 bytes OK
-2023/08/02-13:11:21.013 6a09 Delete type=0 #763
-2023/08/02-13:14:18.542 6a08 Level-0 table #768: started
-2023/08/02-13:14:18.556 6a08 Level-0 table #768: 384948 bytes OK
-2023/08/02-13:14:18.561 6a08 Delete type=0 #765
-2023/08/02-13:14:18.561 6a09 Compacting 4@0 + 1@1 files
-2023/08/02-13:14:18.579 6a09 Generated table #769@0: 24 keys, 82534 bytes
-2023/08/02-13:14:18.579 6a09 Compacted 4@0 + 1@1 files => 82534 bytes
-2023/08/02-13:14:18.580 6a09 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/08/02-13:14:18.580 6a09 Delete type=2 #759
-2023/08/02-13:14:18.580 6a09 Delete type=2 #766
-2023/08/02-13:14:18.580 6a09 Delete type=2 #761
-2023/08/02-13:14:18.580 6a09 Delete type=2 #764
-2023/08/02-13:14:18.580 6a09 Delete type=2 #768
-2023/08/02-13:15:36.979 6a09 Level-0 table #771: started
-2023/08/02-13:15:36.990 6a09 Level-0 table #771: 386240 bytes OK
-2023/08/02-13:15:36.993 6a09 Delete type=0 #767
-2023/08/02-13:19:24.746 6a09 Level-0 table #773: started
-2023/08/02-13:19:24.763 6a09 Level-0 table #773: 386245 bytes OK
-2023/08/02-13:19:24.768 6a09 Delete type=0 #770
-2023/08/02-13:19:50.409 6a09 Level-0 table #775: started
-2023/08/02-13:19:50.426 6a09 Level-0 table #775: 387144 bytes OK
-2023/08/02-13:19:50.429 6a09 Delete type=0 #772
-2023/08/02-13:22:45.046 6a09 Level-0 table #777: started
-2023/08/02-13:22:45.053 6a09 Level-0 table #777: 388023 bytes OK
-2023/08/02-13:22:45.057 6a09 Delete type=0 #774
-2023/08/02-13:22:45.058 6a08 Compacting 4@0 + 1@1 files
-2023/08/02-13:22:45.078 6a08 Generated table #778@0: 21 keys, 81827 bytes
-2023/08/02-13:22:45.078 6a08 Compacted 4@0 + 1@1 files => 81827 bytes
-2023/08/02-13:22:45.080 6a08 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/08/02-13:22:45.081 6a08 Delete type=2 #769
-2023/08/02-13:22:45.081 6a08 Delete type=2 #773
-2023/08/02-13:22:45.081 6a08 Delete type=2 #771
-2023/08/02-13:22:45.081 6a08 Delete type=2 #775
-2023/08/02-13:22:45.081 6a08 Delete type=2 #777
-2023/08/02-13:26:23.614 6a09 Level-0 table #780: started
-2023/08/02-13:26:23.632 6a09 Level-0 table #780: 388632 bytes OK
-2023/08/02-13:26:23.636 6a09 Delete type=0 #776
-2023/08/02-13:26:43.769 6a09 Level-0 table #782: started
-2023/08/02-13:26:43.787 6a09 Level-0 table #782: 388002 bytes OK
-2023/08/02-13:26:43.789 6a09 Delete type=0 #779
-2023/08/02-13:33:46.101 6a09 Compacting 2@0 + 1@1 files
-2023/08/02-13:33:46.113 6a09 Generated table #783@0: 19 keys, 81658 bytes
-2023/08/02-13:33:46.113 6a09 Compacted 2@0 + 1@1 files => 81658 bytes
-2023/08/02-13:33:46.116 6a09 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/08/02-13:33:46.116 6a09 Delete type=2 #778
-2023/08/02-13:33:46.116 6a09 Delete type=2 #780
-2023/08/02-13:33:46.116 6a09 Delete type=2 #782
-2023/08/02-13:41:51.070 6a09 Level-0 table #785: started
-2023/08/02-13:41:51.077 6a09 Level-0 table #785: 318053 bytes OK
-2023/08/02-13:41:51.080 6a09 Delete type=0 #781
-2023/08/02-13:55:56.529 6a09 Compacting 1@0 + 1@1 files
-2023/08/02-13:55:56.545 6a09 Generated table #786@0: 33 keys, 85254 bytes
-2023/08/02-13:55:56.545 6a09 Compacted 1@0 + 1@1 files => 85254 bytes
-2023/08/02-13:55:56.548 6a09 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/08/02-13:55:56.549 6a09 Delete type=2 #785
-2023/08/02-13:55:56.550 6a09 Delete type=2 #783
-2023/08/02-14:21:08.591 6a09 Level-0 table #788: started
-2023/08/02-14:21:08.640 6a09 Level-0 table #788: 393751 bytes OK
-2023/08/02-14:21:08.645 6a09 Delete type=0 #784
-2023/08/02-14:31:13.402 6a09 Level-0 table #790: started
-2023/08/02-14:31:13.413 6a09 Level-0 table #790: 388759 bytes OK
-2023/08/02-14:31:13.415 6a09 Delete type=0 #787
-2023/08/02-14:40:18.035 6a09 Compacting 2@0 + 1@1 files
-2023/08/02-14:40:18.050 6a09 Generated table #791@0: 25 keys, 83614 bytes
-2023/08/02-14:40:18.050 6a09 Compacted 2@0 + 1@1 files => 83614 bytes
-2023/08/02-14:40:18.053 6a09 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/08/02-14:40:18.054 6a09 Delete type=2 #788
-2023/08/02-14:40:18.054 6a09 Delete type=2 #790
-2023/08/02-14:40:18.054 6a09 Delete type=2 #786
-2023/08/02-14:42:42.193 6a08 Level-0 table #793: started
-2023/08/02-14:42:42.207 6a08 Level-0 table #793: 389398 bytes OK
-2023/08/02-14:42:42.210 6a08 Delete type=0 #789
-2023/08/02-14:55:25.382 6a09 Compacting 1@0 + 1@1 files
-2023/08/02-14:55:25.395 6a09 Generated table #794@0: 18 keys, 81565 bytes
-2023/08/02-14:55:25.395 6a09 Compacted 1@0 + 1@1 files => 81565 bytes
-2023/08/02-14:55:25.398 6a09 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/08/02-14:55:25.399 6a09 Delete type=2 #791
-2023/08/02-14:55:25.399 6a09 Delete type=2 #793
-2023/08/02-14:59:27.428 6a09 Level-0 table #796: started
-2023/08/02-14:59:27.450 6a09 Level-0 table #796: 390362 bytes OK
-2023/08/02-14:59:27.452 6a09 Delete type=0 #792
-2023/08/02-15:13:34.191 6a09 Compacting 1@0 + 1@1 files
-2023/08/02-15:13:34.218 6a09 Generated table #797@0: 10 keys, 79941 bytes
-2023/08/02-15:13:34.218 6a09 Compacted 1@0 + 1@1 files => 79941 bytes
-2023/08/02-15:13:34.220 6a09 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/08/02-15:13:34.222 6a09 Delete type=2 #794
-2023/08/02-15:13:34.222 6a09 Delete type=2 #796
+2023/08/11-15:21:46.000 d2f Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2023/08/11-15:21:46.003 d2f Recovering log #895
+2023/08/11-15:21:46.013 d2f Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 1/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000895.log 
+2023/08/11-15:32:53.882 d30 Compacting 1@0 + 1@1 files
+2023/08/11-15:32:53.896 d30 Generated table #898@0: 12 keys, 83735 bytes
+2023/08/11-15:32:53.896 d30 Compacted 1@0 + 1@1 files => 83735 bytes
+2023/08/11-15:32:53.898 d30 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/08/11-15:32:53.899 d30 Delete type=2 #894
+2023/08/11-15:32:53.899 d30 Delete type=2 #896
+2023/08/11-15:41:48.119 d2f Level-0 table #900: started
+2023/08/11-15:41:48.166 d2f Level-0 table #900: 331840 bytes OK
+2023/08/11-15:41:48.170 d2f Delete type=0 #895
+2023/08/11-16:00:06.567 d30 Compacting 1@0 + 1@1 files
+2023/08/11-16:00:06.586 d30 Generated table #901@0: 13 keys, 85207 bytes
+2023/08/11-16:00:06.586 d30 Compacted 1@0 + 1@1 files => 85207 bytes
+2023/08/11-16:00:06.589 d30 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/08/11-16:00:06.591 d30 Delete type=2 #898
+2023/08/11-16:00:06.592 d30 Delete type=2 #900
+2023/08/11-16:18:11.108 d2f Level-0 table #903: started
+2023/08/11-16:18:11.128 d2f Level-0 table #903: 332046 bytes OK
+2023/08/11-16:18:11.137 d2f Delete type=0 #899
+2023/08/11-16:37:24.244 d30 Compacting 1@0 + 1@1 files
+2023/08/11-16:37:24.250 d30 Generated table #904@0: 18 keys, 86864 bytes
+2023/08/11-16:37:24.251 d30 Compacted 1@0 + 1@1 files => 86864 bytes
+2023/08/11-16:37:24.252 d30 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/08/11-16:37:24.252 d30 Delete type=2 #903
+2023/08/11-16:37:24.252 d30 Delete type=2 #901
+2023/08/11-16:52:28.274 d30 Level-0 table #906: started
+2023/08/11-16:52:28.288 d30 Level-0 table #906: 411892 bytes OK
+2023/08/11-16:52:28.291 d30 Delete type=0 #902

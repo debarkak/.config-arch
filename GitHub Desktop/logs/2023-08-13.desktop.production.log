@@ -1,0 +1,11 @@
+2023-08-13T06:49:07.300Z - info: [ui] [AppStore] loading 7 repositories from store
+2023-08-13T06:49:07.312Z - info: [ui] [AppStore] found account: debarkak (Debarka Kundu)
+2023-08-13T06:49:07.596Z - info: [ui] [BranchPruner] No branches to prune.
+2023-08-13T06:49:07.862Z - info: [ui] launching: 3.2.5-linux1 (Linux 6.4.8-zen1-1-zen)
+2023-08-13T06:49:07.863Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-08-13T06:49:08.345Z - info: [ui] Subscribed 'debarkak' to Alive channel
+2023-08-13T06:49:08.947Z - info: [ui] Stats reported.
+2023-08-13T06:49:21.245Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-08-13T06:49:25.383Z - info: [ui] Executing getChangesFiles: git log 1ea1f0c3c960a4297f9e6febc2cc938123b08561 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 4.001s)
+2023-08-13T06:49:40.277Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 6 repositories took 3.1s of which 12.2s paused, total 15.3s

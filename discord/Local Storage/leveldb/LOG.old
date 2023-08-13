@@ -1,6 +1,9 @@
-2023/08/03-15:18:27.521 a21 Reusing MANIFEST /home/debarka/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/08/03-15:18:27.524 a21 Recovering log #727
-2023/08/03-15:18:27.524 a21 Reusing old log /home/debarka/.config/discord/Local Storage/leveldb/000727.log 
-2023/08/03-15:20:28.642 b53 Level-0 table #732: started
-2023/08/03-15:20:28.675 b53 Level-0 table #732: 1810861 bytes OK
-2023/08/03-15:20:28.680 b53 Delete type=0 #727
+2023/08/11-15:20:13.168 4b04 Reusing MANIFEST /home/debarka/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/08/11-15:20:13.171 4b04 Recovering log #838
+2023/08/11-15:20:13.171 4b04 Reusing old log /home/debarka/.config/discord/Local Storage/leveldb/000838.log 
+2023/08/11-15:25:53.536 4b05 Level-0 table #842: started
+2023/08/11-15:25:53.542 4b05 Level-0 table #842: 38366 bytes OK
+2023/08/11-15:25:53.546 4b05 Delete type=0 #838
+2023/08/11-16:00:02.801 4b02 Level-0 table #844: started
+2023/08/11-16:00:02.807 4b02 Level-0 table #844: 16763 bytes OK
+2023/08/11-16:00:02.812 4b02 Delete type=0 #841

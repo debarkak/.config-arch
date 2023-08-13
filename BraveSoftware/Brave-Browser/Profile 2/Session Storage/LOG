@@ -1,3 +1,6 @@
-2023/06/20-07:36:27.856 3 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 2/Session Storage/MANIFEST-000001
-2023/06/20-07:36:27.866 3 Recovering log #3
-2023/06/20-07:36:27.869 3 Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 2/Session Storage/000003.log 
+2023/08/08-14:16:21.983 3 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 2/Session Storage/MANIFEST-000001
+2023/08/08-14:16:21.983 3 Recovering log #3
+2023/08/08-14:16:21.984 3 Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Profile 2/Session Storage/000003.log 
+2023/08/08-14:16:31.397 5 Level-0 table #5: started
+2023/08/08-14:16:31.404 5 Level-0 table #5: 17579 bytes OK
+2023/08/08-14:16:31.412 5 Delete type=0 #3

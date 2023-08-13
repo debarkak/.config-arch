@@ -45,11 +45,12 @@
             "file:///home/debarka/.config/BetterDiscord/themes": "__default__profile__",
             "file:///mnt/data69/hewol/aerOS/aerOS-pfetch": "__default__profile__",
             "file:///mnt/data69/hewol/aerOS/reset%20script": "__default__profile__",
-            "file:///mnt/data69/hewol/aerOS/aerOS-refresh": "__default__profile__"
+            "file:///mnt/data69/hewol/aerOS/aerOS-refresh": "__default__profile__",
+            "file:///run/media/debarka/6fe1878b-60c6-41cc-a4b5-3cad0a8ca455": "__default__profile__",
+            "file:///run/user/1000/gvfs/mtp%3Ahost%3DSAMSUNG_SAMSUNG_Android_RZ8NA0T7MCF": "__default__profile__",
+            "file:///home/debarka/Desktop/hex_tool%20-%20linux": "__default__profile__"
         },
-        "emptyWindows": {
-            "1690441650128": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.machineId": "61ea5634ec834dc6b54e4bdb52ac7db4e0e4d871a4e304e3dd397e33a9908237",
@@ -63,7 +64,7 @@
                 "folderUri": "file:///home/debarka/expedite-patch"
             },
             {
-                "folderUri": "file:///mnt/data69/hewol/aerOS/aerOS-refresh"
+                "folderUri": "file:///home/debarka/Desktop/hex_tool%20-%20linux"
             }
         ],
         "emptyWindows": []
@@ -111,6 +112,39 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/debarka/Desktop/hex_tool%20-%20linux",
+                                        "path": "/home/debarka/Desktop/hex_tool - linux",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/hex_tool - linux"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///run/user/1000/gvfs/mtp%3Ahost%3DSAMSUNG_SAMSUNG_Android_RZ8NA0T7MCF",
+                                        "path": "/run/user/1000/gvfs/mtp:host=SAMSUNG_SAMSUNG_Android_RZ8NA0T7MCF",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/run/user/1000/gvfs/mtp:host=SAMSUNG_SAMSUNG_Android_RZ8NA0T7MCF"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///run/media/debarka/6fe1878b-60c6-41cc-a4b5-3cad0a8ca455",
+                                        "path": "/run/media/debarka/6fe1878b-60c6-41cc-a4b5-3cad0a8ca455",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/run/media/debarka/6fe1878b-60c6-41cc-a4b5-3cad0a8ca455"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -190,40 +224,18 @@
                                     "label": "/home/debarka"
                                 },
                                 {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/debarka/Downloads",
-                                        "path": "/home/debarka/Downloads",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/debarka/expedite-patch",
-                                        "path": "/home/debarka/expedite-patch",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/expedite-patch"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///run/media/debarka/Fedora-WS-Live-38-1-6",
-                                        "path": "/run/media/debarka/Fedora-WS-Live-38-1-6",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/run/media/debarka/Fedora-WS-Live-38-1-6"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/data69/hewol/aerOS/iso-profile/archlive/packages.x86_64",
+                                        "path": "/mnt/data69/hewol/aerOS/iso-profile/archlive/packages.x86_64",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/data69/hewol/aerOS/iso-profile/archlive/packages.x86_64"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -325,17 +337,6 @@
                                     "label": "~/math.c"
                                 },
                                 {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/debarka/Pictures/Screenshots/Screenshot%20from%202023-07-07%2016-49-29.png",
-                                        "path": "/home/debarka/Pictures/Screenshots/Screenshot from 2023-07-07 16-49-29.png",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Pictures/Screenshots/Screenshot from 2023-07-07 16-49-29.png"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -380,7 +381,8 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -390,13 +392,6 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
-                                {
-                                    "id": "github.copyVscodeDevLinkFile",
-                                    "label": "Copy vscode.dev Link"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -435,7 +430,7 @@
                                             },
                                             {
                                                 "id": "workbench.profiles.actions.showProfileContents",
-                                                "label": "Show Contents..."
+                                                "label": "Show Profile Contents"
                                             },
                                             {
                                                 "id": "vscode.menubar.separator"
@@ -485,6 +480,10 @@
                                 {
                                     "id": "workbench.action.openSnippets",
                                     "label": "Configure User Snippets"
+                                },
+                                {
+                                    "id": "workbench.action.tasks.openUserTasks",
+                                    "label": "User Tasks"
                                 },
                                 {
                                     "id": "submenuitem.ThemesSubMenu",
@@ -865,13 +864,6 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "workbench.action.splitEditorInGroup",
-                                    "label": "Split in &&Group"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.action.editorLayoutSingle",
                                     "label": "&&Single"
                                 },
@@ -961,7 +953,7 @@
                     {
                         "id": "editor.action.toggleWordWrap",
                         "label": "&&Word Wrap",
-                        "checked": true
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.toggleStickyScroll",
@@ -973,8 +965,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -983,7 +974,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1648,11 +1640,6 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+\\"
             },
-            "workbench.action.splitEditorInGroup": {
-                "label": "Ctrl+K Ctrl+Shift+\\",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
-            },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
                 "userSettingsLabel": "shift+alt+0"
@@ -1898,14 +1885,14 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///mnt/data69/hewol/aerOS/aerOS-refresh",
-            "backupPath": "/home/debarka/.config/Code/Backups/2480c62cf9e1ec45387f14d11176c3a8",
+            "folder": "file:///home/debarka/Desktop/hex_tool%20-%20linux",
+            "backupPath": "/home/debarka/.config/Code/Backups/04116e818b7bbd2af823ae839f4bf5e9",
             "uiState": {
                 "mode": 1,
-                "x": 376,
-                "y": 112,
+                "x": 869,
+                "y": 184,
                 "width": 960,
-                "height": 968
+                "height": 896
             }
         },
         "openedWindows": []

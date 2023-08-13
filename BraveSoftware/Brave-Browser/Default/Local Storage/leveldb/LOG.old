@@ -1,3 +1,59 @@
-2023/08/03-18:02:06.165 3 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2023/08/03-18:02:06.168 3 Recovering log #1401
-2023/08/03-18:02:06.169 3 Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/001401.log 
+2023/08/12-15:30:51.904 3 Reusing MANIFEST /home/debarka/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/12-15:30:51.905 3 Recovering log #1515
+2023/08/12-15:30:51.906 3 Reusing old log /home/debarka/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/001515.log 
+2023/08/12-15:31:08.266 3 Level-0 table #1519: started
+2023/08/12-15:31:08.279 3 Level-0 table #1519: 89788 bytes OK
+2023/08/12-15:31:08.286 3 Delete type=0 #1515
+2023/08/12-15:38:57.498 4 Level-0 table #1521: started
+2023/08/12-15:38:57.504 4 Level-0 table #1521: 54361 bytes OK
+2023/08/12-15:38:57.508 4 Delete type=0 #1518
+2023/08/12-15:45:12.065 4 Level-0 table #1523: started
+2023/08/12-15:45:12.071 4 Level-0 table #1523: 16428 bytes OK
+2023/08/12-15:45:12.075 4 Delete type=0 #1520
+2023/08/12-15:45:12.075 4 Compacting 4@0 + 3@1 files
+2023/08/12-15:45:12.097 4 Generated table #1524@0: 1071 keys, 2387368 bytes
+2023/08/12-15:45:12.127 4 Generated table #1525@0: 283 keys, 2100787 bytes
+2023/08/12-15:45:12.144 4 Generated table #1526@0: 3952 keys, 1166971 bytes
+2023/08/12-15:45:12.144 4 Compacted 4@0 + 3@1 files => 5655126 bytes
+2023/08/12-15:45:12.146 4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/08/12-15:45:12.146 4 Delete type=2 #1516
+2023/08/12-15:45:12.146 4 Delete type=2 #1521
+2023/08/12-15:45:12.147 4 Delete type=2 #1511
+2023/08/12-15:45:12.147 4 Delete type=2 #1512
+2023/08/12-15:45:12.147 4 Delete type=2 #1523
+2023/08/12-15:45:12.147 4 Delete type=2 #1519
+2023/08/12-15:45:12.147 4 Delete type=2 #1513
+2023/08/12-15:47:26.697 3 Level-0 table #1528: started
+2023/08/12-15:47:26.743 3 Level-0 table #1528: 38102 bytes OK
+2023/08/12-15:47:26.747 3 Delete type=0 #1522
+2023/08/12-15:52:49.906 4 Level-0 table #1530: started
+2023/08/12-15:52:49.911 4 Level-0 table #1530: 77005 bytes OK
+2023/08/12-15:52:49.916 4 Delete type=0 #1527
+2023/08/12-15:54:02.897 4 Level-0 table #1532: started
+2023/08/12-15:54:02.902 4 Level-0 table #1532: 69110 bytes OK
+2023/08/12-15:54:02.906 4 Delete type=0 #1529
+2023/08/12-15:56:48.190 4 Level-0 table #1534: started
+2023/08/12-15:56:48.194 4 Level-0 table #1534: 21560 bytes OK
+2023/08/12-15:56:48.196 4 Delete type=0 #1531
+2023/08/12-15:56:48.196 4 Compacting 4@0 + 3@1 files
+2023/08/12-15:56:48.211 4 Generated table #1535@0: 1073 keys, 2387404 bytes
+2023/08/12-15:56:48.244 4 Generated table #1536@0: 294 keys, 2120272 bytes
+2023/08/12-15:56:48.266 4 Generated table #1537@0: 3987 keys, 1223781 bytes
+2023/08/12-15:56:48.266 4 Compacted 4@0 + 3@1 files => 5731457 bytes
+2023/08/12-15:56:48.269 4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/08/12-15:56:48.269 4 Delete type=2 #1528
+2023/08/12-15:56:48.269 4 Delete type=2 #1530
+2023/08/12-15:56:48.269 4 Delete type=2 #1526
+2023/08/12-15:56:48.269 4 Delete type=2 #1532
+2023/08/12-15:56:48.269 4 Delete type=2 #1524
+2023/08/12-15:56:48.269 4 Delete type=2 #1525
+2023/08/12-15:56:48.269 4 Delete type=2 #1534
+2023/08/12-15:57:49.025 4 Level-0 table #1539: started
+2023/08/12-15:57:49.033 4 Level-0 table #1539: 70820 bytes OK
+2023/08/12-15:57:49.038 4 Delete type=0 #1533
+2023/08/12-16:07:22.161 3 Level-0 table #1541: started
+2023/08/12-16:07:22.163 3 Level-0 table #1541: 46322 bytes OK
+2023/08/12-16:07:22.166 3 Delete type=0 #1538
+2023/08/12-16:19:19.322 3 Level-0 table #1543: started
+2023/08/12-16:19:19.326 3 Level-0 table #1543: 49412 bytes OK
+2023/08/12-16:19:19.330 3 Delete type=0 #1540

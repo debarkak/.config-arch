@@ -4783,3 +4783,534 @@
 2023-08-03T12:32:16.529Z [Modules] Host is up to date.
 2023-08-03T12:32:16.530Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
 2023-08-03T12:32:16.535Z [Modules] No module updates available.
+2023-08-03T13:32:16.170Z [Modules] Checking for host updates.
+2023-08-03T13:32:16.588Z [Modules] Host is up to date.
+2023-08-03T13:32:16.588Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-03T13:32:16.747Z [Modules] No module updates available.
+2023-08-03T13:52:08.006Z [Modules] Modules initializing
+2023-08-03T13:52:08.019Z [Modules] Distribution: remote
+2023-08-03T13:52:08.019Z [Modules] Host updates: enabled
+2023-08-03T13:52:08.019Z [Modules] Module updates: enabled
+2023-08-03T13:52:08.023Z [Modules] Module install path: /home/debarka/.config/discord/0.0.28/modules
+2023-08-03T13:52:08.023Z [Modules] Module installed file path: /home/debarka/.config/discord/0.0.28/modules/installed.json
+2023-08-03T13:52:08.023Z [Modules] Module download path: /home/debarka/.config/discord/0.0.28/modules/pending
+2023-08-03T13:52:08.481Z [Modules] No updates to install
+2023-08-03T13:52:08.482Z [Modules] Checking for host updates.
+2023-08-03T13:52:08.936Z [Modules] Host is up to date.
+2023-08-03T13:52:08.937Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-03T13:52:09.002Z [Modules] No module updates available.
+2023-08-03T13:52:13.294Z [Modules] Checking for host updates.
+2023-08-03T13:52:13.694Z [Modules] Host is up to date.
+2023-08-03T13:52:13.694Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-03T13:52:13.720Z [Modules] No module updates available.
+2023-08-03T15:02:06.167Z [Modules] Modules initializing
+2023-08-03T15:02:06.170Z [Modules] Distribution: remote
+2023-08-03T15:02:06.170Z [Modules] Host updates: enabled
+2023-08-03T15:02:06.170Z [Modules] Module updates: enabled
+2023-08-03T15:02:06.176Z [Modules] Module install path: /home/debarka/.config/discord/0.0.28/modules
+2023-08-03T15:02:06.177Z [Modules] Module installed file path: /home/debarka/.config/discord/0.0.28/modules/installed.json
+2023-08-03T15:02:06.177Z [Modules] Module download path: /home/debarka/.config/discord/0.0.28/modules/pending
+2023-08-03T15:02:06.600Z [Modules] No updates to install
+2023-08-03T15:02:06.600Z [Modules] Checking for host updates.
+2023-08-03T15:02:07.052Z [Modules] Host is up to date.
+2023-08-03T15:02:07.054Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-03T15:02:07.116Z [Modules] No module updates available.
+2023-08-03T15:02:12.351Z [Modules] Checking for host updates.
+2023-08-03T15:02:12.731Z [Modules] Host is up to date.
+2023-08-03T15:02:12.731Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-03T15:02:12.755Z [Modules] No module updates available.
+2023-08-03T15:28:27.739Z [Modules] Checking for host updates.
+2023-08-03T15:28:28.118Z [Modules] Host is up to date.
+2023-08-03T15:28:28.118Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-03T15:28:28.177Z [Modules] No module updates available.
+2023-08-03T16:23:04.813Z [Modules] Modules initializing
+2023-08-03T16:23:04.817Z [Modules] Distribution: remote
+2023-08-03T16:23:04.817Z [Modules] Host updates: enabled
+2023-08-03T16:23:04.817Z [Modules] Module updates: enabled
+2023-08-03T16:23:04.818Z [Modules] Module install path: /home/debarka/.config/discord/0.0.28/modules
+2023-08-03T16:23:04.819Z [Modules] Module installed file path: /home/debarka/.config/discord/0.0.28/modules/installed.json
+2023-08-03T16:23:04.820Z [Modules] Module download path: /home/debarka/.config/discord/0.0.28/modules/pending
+2023-08-03T16:23:05.150Z [Modules] No updates to install
+2023-08-03T16:23:05.151Z [Modules] Checking for host updates.
+2023-08-03T16:23:05.663Z [Modules] Host is up to date.
+2023-08-03T16:23:05.664Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-03T16:23:05.750Z [Modules] No module updates available.
+2023-08-03T16:23:11.470Z [Modules] Checking for host updates.
+2023-08-03T16:23:11.835Z [Modules] Host is up to date.
+2023-08-03T16:23:11.835Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-03T16:23:11.839Z [Modules] No module updates available.
+2023-08-04T07:39:45.935Z [Modules] Modules initializing
+2023-08-04T07:39:45.942Z [Modules] Distribution: remote
+2023-08-04T07:39:45.942Z [Modules] Host updates: enabled
+2023-08-04T07:39:45.942Z [Modules] Module updates: enabled
+2023-08-04T07:39:45.943Z [Modules] Module install path: /home/debarka/.config/discord/0.0.28/modules
+2023-08-04T07:39:45.944Z [Modules] Module installed file path: /home/debarka/.config/discord/0.0.28/modules/installed.json
+2023-08-04T07:39:45.944Z [Modules] Module download path: /home/debarka/.config/discord/0.0.28/modules/pending
+2023-08-04T07:39:46.491Z [Modules] No updates to install
+2023-08-04T07:39:46.491Z [Modules] Checking for host updates.
+2023-08-04T07:39:47.061Z [Modules] Host is up to date.
+2023-08-04T07:39:47.062Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-04T07:39:47.132Z [Modules] No module updates available.
+2023-08-04T07:39:54.414Z [Modules] Checking for host updates.
+2023-08-04T07:39:54.779Z [Modules] Host is up to date.
+2023-08-04T07:39:54.780Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-04T07:39:54.783Z [Modules] No module updates available.
+2023-08-06T06:04:27.484Z [Modules] Modules initializing
+2023-08-06T06:04:27.492Z [Modules] Distribution: remote
+2023-08-06T06:04:27.492Z [Modules] Host updates: enabled
+2023-08-06T06:04:27.492Z [Modules] Module updates: enabled
+2023-08-06T06:04:27.493Z [Modules] Module install path: /home/debarka/.config/discord/0.0.28/modules
+2023-08-06T06:04:27.494Z [Modules] Module installed file path: /home/debarka/.config/discord/0.0.28/modules/installed.json
+2023-08-06T06:04:27.494Z [Modules] Module download path: /home/debarka/.config/discord/0.0.28/modules/pending
+2023-08-06T06:04:27.898Z [Modules] No updates to install
+2023-08-06T06:04:27.899Z [Modules] Checking for host updates.
+2023-08-06T06:04:28.411Z [Modules] Host is up to date.
+2023-08-06T06:04:28.414Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-06T06:04:28.553Z [Modules] No module updates available.
+2023-08-06T06:04:36.220Z [Modules] Checking for host updates.
+2023-08-06T06:04:36.589Z [Modules] Host is up to date.
+2023-08-06T06:04:36.589Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-06T06:04:36.594Z [Modules] No module updates available.
+2023-08-06T10:48:58.830Z [Modules] Modules initializing
+2023-08-06T10:48:58.833Z [Modules] Distribution: remote
+2023-08-06T10:48:58.833Z [Modules] Host updates: enabled
+2023-08-06T10:48:58.833Z [Modules] Module updates: enabled
+2023-08-06T10:48:58.834Z [Modules] Module install path: /home/debarka/.config/discord/0.0.28/modules
+2023-08-06T10:48:58.834Z [Modules] Module installed file path: /home/debarka/.config/discord/0.0.28/modules/installed.json
+2023-08-06T10:48:58.835Z [Modules] Module download path: /home/debarka/.config/discord/0.0.28/modules/pending
+2023-08-06T10:48:59.147Z [Modules] No updates to install
+2023-08-06T10:48:59.148Z [Modules] Checking for host updates.
+2023-08-06T10:48:59.603Z [Modules] Host is up to date.
+2023-08-06T10:48:59.604Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-06T10:48:59.667Z [Modules] No module updates available.
+2023-08-06T10:49:03.873Z [Modules] Checking for host updates.
+2023-08-06T10:49:04.257Z [Modules] Host is up to date.
+2023-08-06T10:49:04.257Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-06T10:49:04.367Z [Modules] No module updates available.
+2023-08-06T11:49:03.896Z [Modules] Checking for host updates.
+2023-08-06T11:49:04.363Z [Modules] Host is up to date.
+2023-08-06T11:49:04.363Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-06T11:49:04.440Z [Modules] No module updates available.
+2023-08-07T18:07:19.972Z [Modules] Modules initializing
+2023-08-07T18:07:19.985Z [Modules] Distribution: remote
+2023-08-07T18:07:19.985Z [Modules] Host updates: enabled
+2023-08-07T18:07:19.985Z [Modules] Module updates: enabled
+2023-08-07T18:07:19.987Z [Modules] Module install path: /home/debarka/.config/discord/0.0.28/modules
+2023-08-07T18:07:19.988Z [Modules] Module installed file path: /home/debarka/.config/discord/0.0.28/modules/installed.json
+2023-08-07T18:07:19.988Z [Modules] Module download path: /home/debarka/.config/discord/0.0.28/modules/pending
+2023-08-07T18:07:20.439Z [Modules] No updates to install
+2023-08-07T18:07:20.440Z [Modules] Checking for host updates.
+2023-08-07T18:07:20.923Z [Modules] Host is up to date.
+2023-08-07T18:07:20.926Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-07T18:07:21.075Z [Modules] Module update available: discord_utils@2 [installed: 1]
+2023-08-07T18:07:21.077Z [Modules] Module update available: discord_voice@2 [installed: 1]
+2023-08-07T18:07:21.077Z [Modules] Module update available: discord_game_utils@2 [installed: 1]
+2023-08-07T18:07:21.078Z [Modules] Fetching discord_utils@2 from https://discord.com/api/modules/stable/discord_utils/2
+2023-08-07T18:07:21.078Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip
+2023-08-07T18:07:21.598Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 1%
+2023-08-07T18:07:21.610Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 4%
+2023-08-07T18:07:21.617Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 6%
+2023-08-07T18:07:21.622Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 8%
+2023-08-07T18:07:21.625Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 10%
+2023-08-07T18:07:21.627Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 12%
+2023-08-07T18:07:21.633Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 13%
+2023-08-07T18:07:21.639Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 15%
+2023-08-07T18:07:21.640Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 16%
+2023-08-07T18:07:21.647Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 17%
+2023-08-07T18:07:21.655Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 18%
+2023-08-07T18:07:21.666Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 19%
+2023-08-07T18:07:21.704Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 21%
+2023-08-07T18:07:21.706Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 23%
+2023-08-07T18:07:21.710Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 24%
+2023-08-07T18:07:21.719Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 25%
+2023-08-07T18:07:21.818Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 26%
+2023-08-07T18:07:21.823Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 27%
+2023-08-07T18:07:21.828Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 28%
+2023-08-07T18:07:21.835Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 29%
+2023-08-07T18:07:21.842Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 30%
+2023-08-07T18:07:21.850Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 31%
+2023-08-07T18:07:21.853Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 32%
+2023-08-07T18:07:22.049Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 34%
+2023-08-07T18:07:22.051Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 36%
+2023-08-07T18:07:22.053Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 38%
+2023-08-07T18:07:22.095Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 40%
+2023-08-07T18:07:22.100Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 45%
+2023-08-07T18:07:22.289Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 46%
+2023-08-07T18:07:22.293Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 48%
+2023-08-07T18:07:22.301Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 50%
+2023-08-07T18:07:22.302Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 52%
+2023-08-07T18:07:22.304Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 54%
+2023-08-07T18:07:22.319Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 56%
+2023-08-07T18:07:22.322Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 58%
+2023-08-07T18:07:22.325Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 67%
+2023-08-07T18:07:22.327Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 69%
+2023-08-07T18:07:22.333Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 74%
+2023-08-07T18:07:22.338Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 85%
+2023-08-07T18:07:22.340Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 90%
+2023-08-07T18:07:22.348Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 91%
+2023-08-07T18:07:22.352Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 92%
+2023-08-07T18:07:22.364Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 93%
+2023-08-07T18:07:22.370Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 94%
+2023-08-07T18:07:22.381Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 95%
+2023-08-07T18:07:22.388Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 96%
+2023-08-07T18:07:22.399Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 97%
+2023-08-07T18:07:22.412Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 98%
+2023-08-07T18:07:22.435Z [Modules] Streaming discord_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 100%
+2023-08-07T18:07:22.451Z [Modules] Fetching discord_voice@2 from https://discord.com/api/modules/stable/discord_voice/2
+2023-08-07T18:07:22.451Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip
+2023-08-07T18:07:22.849Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 1%
+2023-08-07T18:07:22.856Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 2%
+2023-08-07T18:07:22.901Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 3%
+2023-08-07T18:07:23.129Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 4%
+2023-08-07T18:07:23.135Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 5%
+2023-08-07T18:07:23.380Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 6%
+2023-08-07T18:07:23.384Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 7%
+2023-08-07T18:07:23.417Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 8%
+2023-08-07T18:07:23.435Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 9%
+2023-08-07T18:07:23.436Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 10%
+2023-08-07T18:07:23.436Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 11%
+2023-08-07T18:07:23.437Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 12%
+2023-08-07T18:07:23.497Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 13%
+2023-08-07T18:07:23.669Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 14%
+2023-08-07T18:07:23.894Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 15%
+2023-08-07T18:07:23.902Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 16%
+2023-08-07T18:07:23.906Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 17%
+2023-08-07T18:07:23.913Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 18%
+2023-08-07T18:07:23.918Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 20%
+2023-08-07T18:07:23.936Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 22%
+2023-08-07T18:07:23.960Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 23%
+2023-08-07T18:07:24.010Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 24%
+2023-08-07T18:07:24.061Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 25%
+2023-08-07T18:07:24.111Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 26%
+2023-08-07T18:07:24.167Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 27%
+2023-08-07T18:07:24.219Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 28%
+2023-08-07T18:07:24.273Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 29%
+2023-08-07T18:07:24.321Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 30%
+2023-08-07T18:07:24.376Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 31%
+2023-08-07T18:07:24.431Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 32%
+2023-08-07T18:07:24.481Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 33%
+2023-08-07T18:07:24.535Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 34%
+2023-08-07T18:07:24.587Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 35%
+2023-08-07T18:07:24.638Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 36%
+2023-08-07T18:07:24.695Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 37%
+2023-08-07T18:07:24.747Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 38%
+2023-08-07T18:07:24.796Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 39%
+2023-08-07T18:07:24.850Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 40%
+2023-08-07T18:07:24.916Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 41%
+2023-08-07T18:07:24.956Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 42%
+2023-08-07T18:07:25.008Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 43%
+2023-08-07T18:07:25.065Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 44%
+2023-08-07T18:07:25.115Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 45%
+2023-08-07T18:07:25.166Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 46%
+2023-08-07T18:07:25.217Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 47%
+2023-08-07T18:07:25.272Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 48%
+2023-08-07T18:07:25.323Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 49%
+2023-08-07T18:07:25.375Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 50%
+2023-08-07T18:07:25.429Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 51%
+2023-08-07T18:07:25.481Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 52%
+2023-08-07T18:07:25.534Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 53%
+2023-08-07T18:07:25.588Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 54%
+2023-08-07T18:07:25.641Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 55%
+2023-08-07T18:07:25.691Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 56%
+2023-08-07T18:07:25.742Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 57%
+2023-08-07T18:07:25.801Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 58%
+2023-08-07T18:07:25.850Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 59%
+2023-08-07T18:07:25.901Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 60%
+2023-08-07T18:07:25.972Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 61%
+2023-08-07T18:07:26.009Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 62%
+2023-08-07T18:07:26.059Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 63%
+2023-08-07T18:07:26.116Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 64%
+2023-08-07T18:07:26.167Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 65%
+2023-08-07T18:07:26.221Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 66%
+2023-08-07T18:07:26.270Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 67%
+2023-08-07T18:07:26.326Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 68%
+2023-08-07T18:07:26.380Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 69%
+2023-08-07T18:07:26.430Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 70%
+2023-08-07T18:07:26.485Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 71%
+2023-08-07T18:07:26.541Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 72%
+2023-08-07T18:07:26.589Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 73%
+2023-08-07T18:07:26.647Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 74%
+2023-08-07T18:07:26.702Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 75%
+2023-08-07T18:07:26.758Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 76%
+2023-08-07T18:07:26.813Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 77%
+2023-08-07T18:07:26.882Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 78%
+2023-08-07T18:07:26.940Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 79%
+2023-08-07T18:07:26.987Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 80%
+2023-08-07T18:07:27.054Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 81%
+2023-08-07T18:07:27.100Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 82%
+2023-08-07T18:07:27.152Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 83%
+2023-08-07T18:07:27.209Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 84%
+2023-08-07T18:07:27.265Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 85%
+2023-08-07T18:07:27.319Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 86%
+2023-08-07T18:07:27.370Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 87%
+2023-08-07T18:07:27.432Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 88%
+2023-08-07T18:07:27.486Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 89%
+2023-08-07T18:07:27.532Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 90%
+2023-08-07T18:07:27.584Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 91%
+2023-08-07T18:07:27.641Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 92%
+2023-08-07T18:07:27.693Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 93%
+2023-08-07T18:07:27.751Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 94%
+2023-08-07T18:07:27.802Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 95%
+2023-08-07T18:07:27.855Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 96%
+2023-08-07T18:07:27.911Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 97%
+2023-08-07T18:07:27.968Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 98%
+2023-08-07T18:07:28.011Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 99%
+2023-08-07T18:07:28.064Z [Modules] Streaming discord_voice@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 100%
+2023-08-07T18:07:28.097Z [Modules] Fetching discord_game_utils@2 from https://discord.com/api/modules/stable/discord_game_utils/2
+2023-08-07T18:07:28.098Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip
+2023-08-07T18:07:28.536Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 1%
+2023-08-07T18:07:28.541Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 2%
+2023-08-07T18:07:28.550Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 4%
+2023-08-07T18:07:28.552Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 5%
+2023-08-07T18:07:28.567Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 7%
+2023-08-07T18:07:28.570Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 8%
+2023-08-07T18:07:28.573Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 9%
+2023-08-07T18:07:28.581Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 10%
+2023-08-07T18:07:28.582Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 11%
+2023-08-07T18:07:28.589Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 12%
+2023-08-07T18:07:28.596Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 13%
+2023-08-07T18:07:28.601Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 15%
+2023-08-07T18:07:28.608Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 16%
+2023-08-07T18:07:28.614Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 17%
+2023-08-07T18:07:28.617Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 18%
+2023-08-07T18:07:28.621Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 19%
+2023-08-07T18:07:28.625Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 20%
+2023-08-07T18:07:28.632Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 22%
+2023-08-07T18:07:28.636Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 23%
+2023-08-07T18:07:28.638Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 24%
+2023-08-07T18:07:28.650Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 26%
+2023-08-07T18:07:28.652Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 27%
+2023-08-07T18:07:28.654Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 28%
+2023-08-07T18:07:28.698Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 36%
+2023-08-07T18:07:28.700Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 38%
+2023-08-07T18:07:28.717Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 39%
+2023-08-07T18:07:28.718Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 41%
+2023-08-07T18:07:28.720Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 44%
+2023-08-07T18:07:28.721Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 46%
+2023-08-07T18:07:28.731Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 47%
+2023-08-07T18:07:28.735Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 48%
+2023-08-07T18:07:28.743Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 49%
+2023-08-07T18:07:28.747Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 50%
+2023-08-07T18:07:28.756Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 51%
+2023-08-07T18:07:28.760Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 52%
+2023-08-07T18:07:28.772Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 53%
+2023-08-07T18:07:28.781Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 54%
+2023-08-07T18:07:28.784Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 55%
+2023-08-07T18:07:28.790Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 56%
+2023-08-07T18:07:28.795Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 57%
+2023-08-07T18:07:28.804Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 58%
+2023-08-07T18:07:28.809Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 59%
+2023-08-07T18:07:28.816Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 60%
+2023-08-07T18:07:28.821Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 61%
+2023-08-07T18:07:28.831Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 62%
+2023-08-07T18:07:28.834Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 63%
+2023-08-07T18:07:28.843Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 64%
+2023-08-07T18:07:28.847Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 65%
+2023-08-07T18:07:28.855Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 66%
+2023-08-07T18:07:28.860Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 67%
+2023-08-07T18:07:28.867Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 68%
+2023-08-07T18:07:28.871Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 69%
+2023-08-07T18:07:28.880Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 70%
+2023-08-07T18:07:28.885Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 71%
+2023-08-07T18:07:28.894Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 72%
+2023-08-07T18:07:28.897Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 73%
+2023-08-07T18:07:28.907Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 74%
+2023-08-07T18:07:28.910Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 75%
+2023-08-07T18:07:28.919Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 76%
+2023-08-07T18:07:28.923Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 77%
+2023-08-07T18:07:28.932Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 78%
+2023-08-07T18:07:28.936Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 79%
+2023-08-07T18:07:28.954Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 81%
+2023-08-07T18:07:28.958Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 82%
+2023-08-07T18:07:28.967Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 83%
+2023-08-07T18:07:28.970Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 84%
+2023-08-07T18:07:28.979Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 85%
+2023-08-07T18:07:28.983Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 86%
+2023-08-07T18:07:28.991Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 87%
+2023-08-07T18:07:28.997Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 88%
+2023-08-07T18:07:29.003Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 89%
+2023-08-07T18:07:29.009Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 90%
+2023-08-07T18:07:29.016Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 91%
+2023-08-07T18:07:29.022Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 92%
+2023-08-07T18:07:29.029Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 93%
+2023-08-07T18:07:29.034Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 94%
+2023-08-07T18:07:29.042Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 95%
+2023-08-07T18:07:29.047Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 96%
+2023-08-07T18:07:29.054Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 97%
+2023-08-07T18:07:29.059Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 98%
+2023-08-07T18:07:29.068Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 99%
+2023-08-07T18:07:29.070Z [Modules] Streaming discord_game_utils@2 to /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 100%
+2023-08-07T18:07:29.072Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-08-07T18:07:29.073Z [Modules] Installing updates...
+2023-08-07T18:07:29.074Z [Modules] Installing discord_utils@2 from /home/debarka/.config/discord/0.0.28/modules/pending/discord_utils-2.zip
+2023-08-07T18:07:31.299Z [Modules] Installing discord_voice@2 from /home/debarka/.config/discord/0.0.28/modules/pending/discord_voice-2.zip
+2023-08-07T18:07:34.903Z [Modules] Installing discord_game_utils@2 from /home/debarka/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip
+2023-08-07T18:07:35.146Z [Modules] Finished module installations. [success: 3] [failure: 0]
+2023-08-07T18:07:35.146Z [Modules] Checking for host updates.
+2023-08-07T18:07:35.523Z [Modules] Host is up to date.
+2023-08-07T18:07:35.523Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-07T18:07:35.528Z [Modules] No module updates available.
+2023-08-07T18:07:42.631Z [Modules] Checking for host updates.
+2023-08-07T18:07:43.012Z [Modules] Host is up to date.
+2023-08-07T18:07:43.012Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-07T18:07:43.025Z [Modules] No module updates available.
+2023-08-07T18:09:10.273Z [Modules] Checking for host updates.
+2023-08-07T18:09:10.646Z [Modules] Host is up to date.
+2023-08-07T18:09:10.646Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-07T18:09:10.655Z [Modules] No module updates available.
+2023-08-08T05:05:05.605Z [Modules] Modules initializing
+2023-08-08T05:05:05.607Z [Modules] Distribution: remote
+2023-08-08T05:05:05.607Z [Modules] Host updates: enabled
+2023-08-08T05:05:05.607Z [Modules] Module updates: enabled
+2023-08-08T05:05:05.608Z [Modules] Module install path: /home/debarka/.config/discord/0.0.28/modules
+2023-08-08T05:05:05.609Z [Modules] Module installed file path: /home/debarka/.config/discord/0.0.28/modules/installed.json
+2023-08-08T05:05:05.609Z [Modules] Module download path: /home/debarka/.config/discord/0.0.28/modules/pending
+2023-08-08T05:05:05.891Z [Modules] No updates to install
+2023-08-08T05:05:05.892Z [Modules] Checking for host updates.
+2023-08-08T05:05:06.334Z [Modules] Host is up to date.
+2023-08-08T05:05:06.335Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-08T05:05:06.396Z [Modules] No module updates available.
+2023-08-08T05:05:11.629Z [Modules] Checking for host updates.
+2023-08-08T05:05:11.998Z [Modules] Host is up to date.
+2023-08-08T05:05:11.998Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-08T05:05:12.001Z [Modules] No module updates available.
+2023-08-08T05:09:36.017Z [Modules] Checking for host updates.
+2023-08-08T05:09:36.375Z [Modules] Host is up to date.
+2023-08-08T05:09:36.375Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-08T05:09:36.378Z [Modules] No module updates available.
+2023-08-08T05:22:05.569Z [Modules] Checking for host updates.
+2023-08-08T05:22:05.939Z [Modules] Host is up to date.
+2023-08-08T05:22:05.940Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-08T05:22:06.005Z [Modules] No module updates available.
+2023-08-08T06:22:05.578Z [Modules] Checking for host updates.
+2023-08-08T06:22:06.049Z [Modules] Host is up to date.
+2023-08-08T06:22:06.050Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-08T06:22:06.151Z [Modules] No module updates available.
+2023-08-08T07:22:05.571Z [Modules] Checking for host updates.
+2023-08-08T07:22:06.014Z [Modules] Host is up to date.
+2023-08-08T07:22:06.015Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-08T07:22:06.092Z [Modules] No module updates available.
+2023-08-08T08:22:05.580Z [Modules] Checking for host updates.
+2023-08-08T08:22:06.028Z [Modules] Host is up to date.
+2023-08-08T08:22:06.030Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-08T08:22:06.106Z [Modules] No module updates available.
+2023-08-08T09:22:05.577Z [Modules] Checking for host updates.
+2023-08-08T09:22:06.020Z [Modules] Host is up to date.
+2023-08-08T09:22:06.021Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-08T09:22:06.094Z [Modules] No module updates available.
+2023-08-09T06:33:11.458Z [Modules] Modules initializing
+2023-08-09T06:33:11.486Z [Modules] Distribution: remote
+2023-08-09T06:33:11.486Z [Modules] Host updates: enabled
+2023-08-09T06:33:11.487Z [Modules] Module updates: enabled
+2023-08-09T06:33:11.488Z [Modules] Module install path: /home/debarka/.config/discord/0.0.28/modules
+2023-08-09T06:33:11.489Z [Modules] Module installed file path: /home/debarka/.config/discord/0.0.28/modules/installed.json
+2023-08-09T06:33:11.489Z [Modules] Module download path: /home/debarka/.config/discord/0.0.28/modules/pending
+2023-08-09T06:33:12.031Z [Modules] No updates to install
+2023-08-09T06:33:12.031Z [Modules] Checking for host updates.
+2023-08-09T06:33:12.473Z [Modules] Host is up to date.
+2023-08-09T06:33:12.474Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-09T06:33:12.542Z [Modules] No module updates available.
+2023-08-09T06:33:19.385Z [Modules] Checking for host updates.
+2023-08-09T06:33:19.755Z [Modules] Host is up to date.
+2023-08-09T06:33:19.755Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-09T06:33:19.760Z [Modules] No module updates available.
+2023-08-09T06:37:57.118Z [Modules] Checking for host updates.
+2023-08-09T06:37:57.484Z [Modules] Host is up to date.
+2023-08-09T06:37:57.484Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-09T06:37:57.544Z [Modules] No module updates available.
+2023-08-09T09:15:18.950Z [Modules] Modules initializing
+2023-08-09T09:15:18.953Z [Modules] Distribution: remote
+2023-08-09T09:15:18.954Z [Modules] Host updates: enabled
+2023-08-09T09:15:18.954Z [Modules] Module updates: enabled
+2023-08-09T09:15:18.959Z [Modules] Module install path: /home/debarka/.config/discord/0.0.28/modules
+2023-08-09T09:15:18.960Z [Modules] Module installed file path: /home/debarka/.config/discord/0.0.28/modules/installed.json
+2023-08-09T09:15:18.960Z [Modules] Module download path: /home/debarka/.config/discord/0.0.28/modules/pending
+2023-08-09T09:15:19.651Z [Modules] No updates to install
+2023-08-09T09:15:19.651Z [Modules] Checking for host updates.
+2023-08-09T09:15:20.158Z [Modules] Host is up to date.
+2023-08-09T09:15:20.158Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-09T09:15:20.244Z [Modules] No module updates available.
+2023-08-09T09:15:30.838Z [Modules] Checking for host updates.
+2023-08-09T09:15:31.219Z [Modules] Host is up to date.
+2023-08-09T09:15:31.220Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-09T09:15:31.229Z [Modules] No module updates available.
+2023-08-09T10:15:30.839Z [Modules] Checking for host updates.
+2023-08-09T10:15:31.325Z [Modules] Host is up to date.
+2023-08-09T10:15:31.330Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-09T10:15:31.413Z [Modules] No module updates available.
+2023-08-09T11:15:30.855Z [Modules] Checking for host updates.
+2023-08-09T11:15:31.286Z [Modules] Host is up to date.
+2023-08-09T11:15:31.293Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-09T11:15:31.370Z [Modules] No module updates available.
+2023-08-09T11:56:21.878Z [Modules] Modules initializing
+2023-08-09T11:56:21.880Z [Modules] Distribution: remote
+2023-08-09T11:56:21.880Z [Modules] Host updates: enabled
+2023-08-09T11:56:21.881Z [Modules] Module updates: enabled
+2023-08-09T11:56:21.881Z [Modules] Module install path: /home/debarka/.config/discord/0.0.28/modules
+2023-08-09T11:56:21.881Z [Modules] Module installed file path: /home/debarka/.config/discord/0.0.28/modules/installed.json
+2023-08-09T11:56:21.882Z [Modules] Module download path: /home/debarka/.config/discord/0.0.28/modules/pending
+2023-08-09T11:56:22.156Z [Modules] No updates to install
+2023-08-09T11:56:22.156Z [Modules] Checking for host updates.
+2023-08-09T11:56:22.601Z [Modules] Host is up to date.
+2023-08-09T11:56:22.602Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-09T11:56:22.674Z [Modules] No module updates available.
+2023-08-09T11:56:27.387Z [Modules] Checking for host updates.
+2023-08-09T11:56:27.755Z [Modules] Host is up to date.
+2023-08-09T11:56:27.755Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-09T11:56:27.758Z [Modules] No module updates available.
+2023-08-11T07:01:34.052Z [Modules] Modules initializing
+2023-08-11T07:01:34.054Z [Modules] Distribution: remote
+2023-08-11T07:01:34.054Z [Modules] Host updates: enabled
+2023-08-11T07:01:34.054Z [Modules] Module updates: enabled
+2023-08-11T07:01:34.055Z [Modules] Module install path: /home/debarka/.config/discord/0.0.28/modules
+2023-08-11T07:01:34.055Z [Modules] Module installed file path: /home/debarka/.config/discord/0.0.28/modules/installed.json
+2023-08-11T07:01:34.056Z [Modules] Module download path: /home/debarka/.config/discord/0.0.28/modules/pending
+2023-08-11T07:01:34.399Z [Modules] No updates to install
+2023-08-11T07:01:34.399Z [Modules] Checking for host updates.
+2023-08-11T07:01:34.943Z [Modules] Host is up to date.
+2023-08-11T07:01:34.944Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-11T07:01:35.099Z [Modules] No module updates available.
+2023-08-11T07:01:41.505Z [Modules] Checking for host updates.
+2023-08-11T07:01:42.000Z [Modules] Host is up to date.
+2023-08-11T07:01:42.000Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-11T07:01:42.011Z [Modules] No module updates available.
+2023-08-11T08:01:41.508Z [Modules] Checking for host updates.
+2023-08-11T08:01:41.928Z [Modules] Host is up to date.
+2023-08-11T08:01:41.930Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-11T08:01:42.012Z [Modules] No module updates available.
+2023-08-11T09:50:13.210Z [Modules] Modules initializing
+2023-08-11T09:50:13.212Z [Modules] Distribution: remote
+2023-08-11T09:50:13.212Z [Modules] Host updates: enabled
+2023-08-11T09:50:13.213Z [Modules] Module updates: enabled
+2023-08-11T09:50:13.213Z [Modules] Module install path: /home/debarka/.config/discord/0.0.28/modules
+2023-08-11T09:50:13.213Z [Modules] Module installed file path: /home/debarka/.config/discord/0.0.28/modules/installed.json
+2023-08-11T09:50:13.214Z [Modules] Module download path: /home/debarka/.config/discord/0.0.28/modules/pending
+2023-08-11T09:50:13.488Z [Modules] No updates to install
+2023-08-11T09:50:13.488Z [Modules] Checking for host updates.
+2023-08-11T09:50:14.020Z [Modules] Host is up to date.
+2023-08-11T09:50:14.021Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-11T09:50:14.091Z [Modules] No module updates available.
+2023-08-11T09:50:18.905Z [Modules] Checking for host updates.
+2023-08-11T09:50:19.290Z [Modules] Host is up to date.
+2023-08-11T09:50:19.291Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-11T09:50:19.296Z [Modules] No module updates available.
+2023-08-11T10:50:18.907Z [Modules] Checking for host updates.
+2023-08-11T10:50:19.468Z [Modules] Host is up to date.
+2023-08-11T10:50:19.469Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-11T10:50:19.907Z [Modules] No module updates available.
+2023-08-13T06:35:37.910Z [Modules] Modules initializing
+2023-08-13T06:35:37.912Z [Modules] Distribution: remote
+2023-08-13T06:35:37.912Z [Modules] Host updates: enabled
+2023-08-13T06:35:37.912Z [Modules] Module updates: enabled
+2023-08-13T06:35:37.913Z [Modules] Module install path: /home/debarka/.config/discord/0.0.28/modules
+2023-08-13T06:35:37.914Z [Modules] Module installed file path: /home/debarka/.config/discord/0.0.28/modules/installed.json
+2023-08-13T06:35:37.914Z [Modules] Module download path: /home/debarka/.config/discord/0.0.28/modules/pending
+2023-08-13T06:35:38.202Z [Modules] No updates to install
+2023-08-13T06:35:38.203Z [Modules] Checking for host updates.
+2023-08-13T06:35:38.723Z [Modules] Host is up to date.
+2023-08-13T06:35:38.724Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-13T06:35:38.879Z [Modules] No module updates available.
+2023-08-13T06:35:42.923Z [Modules] Checking for host updates.
+2023-08-13T06:35:43.305Z [Modules] Host is up to date.
+2023-08-13T06:35:43.306Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-13T06:35:43.312Z [Modules] No module updates available.

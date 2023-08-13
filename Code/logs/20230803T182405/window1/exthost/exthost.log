@@ -1,0 +1,15 @@
+2023-08-03 18:24:07.489 [info] Extension host with pid 19822 started
+2023-08-03 18:24:07.489 [info] Skipping acquiring lock for /home/debarka/.config/Code/User/workspaceStorage/180c407b4b6781673932720d1339cf42.
+2023-08-03 18:24:07.695 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-03 18:24:07.711 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-08-03 18:24:07.719 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-08-03 18:24:08.846 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-03 18:24:08.854 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2023-08-03 18:24:09.134 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-08-03 18:24:09.180 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-03 18:24:09.428 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-03 18:24:09.807 [info] Eager extensions activated
+2023-08-03 18:24:10.011 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-03 18:24:10.257 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-03 18:24:10.294 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-08-03 18:24:10.758 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'

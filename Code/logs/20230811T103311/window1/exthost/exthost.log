@@ -1,0 +1,8 @@
+2023-08-11 10:33:14.565 [info] Extension host with pid 2939 started
+2023-08-11 10:33:14.565 [info] Skipping acquiring lock for /home/debarka/.config/Code/User/workspaceStorage/11cbe9654c6db79d2e891d0a961f2c07.
+2023-08-11 10:33:14.699 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-11 10:33:14.710 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2023-08-11 10:33:14.826 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-11 10:33:15.022 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-11 10:33:15.122 [info] Extension host terminating: renderer closed the MessagePort
+2023-08-11 10:33:15.127 [info] Extension host with pid 2939 exiting with code 0
